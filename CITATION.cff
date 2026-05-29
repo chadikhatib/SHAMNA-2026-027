@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite both the article and the dataset."
+type: dataset
+title: "SHAMNA-2026-027: KAP-Guided Translational Pilot Study in Atopic Dermatitis"
+authors:
+  - family-names: "Khatib"
+    given-names: "Chadi"
+    affiliation: "Manara University"
+date-released: 2026-05-30
+url: "https://github.com/chadikhatib/SHAMNA-2026-027"
+license: CC-BY-NC-ND-4.0
+version: "1.0.0"
+keywords:
+  - atopic dermatitis
+  - propolis
+  - KAP survey
+  - pharmacovigilance
+  - NCT07618234
