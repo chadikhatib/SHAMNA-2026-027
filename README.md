@@ -41,22 +41,6 @@ Statistical analysis in progress. Results will be updated upon completion.
 
 ---
 
-## ⚠️ Critical Rules
-
-- **NEVER** SMS/SPS in any file (deleted from all materials)
-- **ALWAYS** "Quadruple-Blind" (not "Double-Blind")
-- **ALWAYS** exact p-values (e.g., p = 0.0003, not p less than 0.05)
-
----
-
-## 🚫 Retired Metrics
-
-The following were removed due to lack of established methodology:
-- **SMS** (Steroid Misuse Score)
-- **SPS** (Steroid Phobia Score)
-
----
-
 ## 📚 Citation
 
 ```bibtex
