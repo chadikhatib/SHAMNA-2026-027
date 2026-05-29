@@ -41,6 +41,13 @@ Statistical analysis in progress. Results will be updated upon completion.
 
 ---
 
+## ⚠️ Critical Rules
+
+- **ALWAYS** "Quadruple-Blind" (not "Double-Blind")
+- **ALWAYS** exact p-values (e.g., p = 0.0003, not p less than 0.05)
+
+---
+
 ## 📚 Citation
 
 ```bibtex
