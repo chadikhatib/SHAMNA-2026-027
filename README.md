@@ -73,7 +73,11 @@ Prohibited:
     Use in training commercial AI models
     Claiming authorship or ownership
 
-📧 Contact
-For academic inquiries:
-Chadi Khatib — Manara University
+## 📧 Contact
+
+For academic inquiries:  
+**Chadi Khatib** — Manara University  
+**Mahmoud Bitar** — Manara University  
+**Haya Farhat** — Manara University  
+**Nagham Saleh** — Manara University
 Last updated: 2026-05-30 | DOI: 10.5281/zenodo.20452809
