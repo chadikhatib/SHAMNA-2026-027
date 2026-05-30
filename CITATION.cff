@@ -6,10 +6,20 @@ authors:
   - family-names: "Khatib"
     given-names: "Chadi"
     affiliation: "Manara University"
+  - family-names: "Bitar"
+    given-names: "Mahmoud"
+    affiliation: "Manara University"
+  - family-names: "Farhat"
+    given-names: "Haya"
+    affiliation: "Manara University"
+  - family-names: "Saleh"
+    given-names: "Nagham"
+    affiliation: "Manara University"
+doi: "10.5281/zenodo.20452809"
 date-released: 2026-05-30
 url: "https://github.com/chadikhatib/SHAMNA-2026-027"
 license: CC-BY-NC-ND-4.0
-version: "1.0.0"
+version: "1.0.1"
 keywords:
   - atopic dermatitis
   - propolis
