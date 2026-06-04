@@ -1,0 +1,121 @@
+participant_id	profession	experience_years	workplace	tcs_training	k1_firstline_treatment	k2_emollient_importance	k3_barrier_treatment	k4_propolis_knowledge	k5_beeswax_evaluation	k6_propolis_beeswax_synergy	k7_tcs_misuse_factors	k8_propolis_evidence_level	k9_pharmacist_role	k10_patient_education	k11_stepdown_protocol	k12_steroid_atrophy_recognition	a1_tcs_safety_correct_use	a2_tcs_always_dangerous	a3_emollients_cornerstone	a4_fear_prescribing_children	a5_preventive_treatment_effective	a6_stop_immediately_improve	a7_patient_education_essential	a8_corticosteroids_addiction	a9_fingertip_unit_useful	a10_never_use_face	a11_regular_followup_important	a12_purchase_without_prescription	p1_tcs_firstline_frequency	p2_routine_emollients	p3_specialist_referral	p4_recommend_natural_products	p5_patient_education_steroid_risks	p6_assess_adherence_gaps	p7_derm_assessment_before_rx	p8_manage_secondary_infections	p9_followup_timing	p10_confidence_natural_adjuvants	p11_recommend_therapeutic_emollients	p12_address_steroid_phobia
+P001	Dermatologist	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	2	3	1	3	1	5	1	2	1	3	3	3	5	2	5	3	5	5	5	2	5	2	3
+P002	Dermatologist	5-10 years	Private Clinic	Yes	1	1	1	1	1	1	1	1	1	1	1	1	5	2	5	1	4	1	2	1	5	1	5	5	5	5	2	5	5	5	2	5	4	5	5	5
+P003	Dermatologist	2-5 years	Hospital	No	1	1	1	1	1	1	1	1	0	1	1	1	3	2	3	1	3	1	4	1	3	1	4	3	1	5	4	5	2	5	3	5	3	5	1	2
+P004	Dermatologist	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	1	2	5	1	5	1	4	1	2	1	4	2	2	5	4	5	2	5	4	5	3	5	4	5
+P005	Dermatologist	<2 years	Private Clinic	Yes	1	1	1	1	1	1	1	0	1	1	1	1	2	4	3	1	2	1	4	1	2	1	2	4	3	5	4	5	1	5	1	5	3	5	1	2
+P006	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	5	2	3	1	5	1	4	1	5	1	4	1	5	5	3	5	5	5	5	5	4	5	5	5
+P007	Dermatologist	>10 years	Private Clinic	Yes	1	1	1	1	1	1	1	1	1	1	1	1	5	4	3	1	5	1	4	1	2	1	2	1	2	5	3	5	4	5	3	5	2	5	4	2
+P008	Dermatologist	2-5 years	Hospital	No	1	1	1	1	1	1	1	1	1	1	1	1	2	3	2	1	2	1	3	1	5	1	2	3	3	5	2	5	3	5	3	5	1	5	2	1
+P009	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	4	1	5	1	4	1	5	4	1	5	3	5	3	5	3	5	2	5	4	4
+P010	Dermatologist	>10 years	Private Clinic	Yes	1	1	1	1	1	1	1	1	1	1	1	1	5	1	5	1	5	1	5	1	5	1	5	3	5	5	5	5	5	5	5	5	3	5	5	5
+P011	Dermatologist	2-5 years	Hospital	No	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	2	1	2	1	3	1	3	3	2	5	1	5	2	5	2	5	4	5	1	2
+P012	Dermatologist	5-10 years	Private Clinic	Yes	1	1	1	1	1	1	1	1	1	1	1	1	2	1	5	1	3	1	3	1	3	1	3	2	2	5	3	5	3	5	3	5	3	5	5	4
+P013	Dermatologist	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	3	4	1	3	1	4	1	3	1	5	1	4	5	3	5	4	5	5	5	3	5	4	2
+P014	Dermatologist	<2 years	Hospital	No	1	1	1	1	1	1	1	1	1	1	1	1	3	5	1	1	1	1	2	1	1	1	4	5	1	5	2	5	1	5	2	5	1	5	3	2
+P015	Dermatologist	5-10 years	Private Clinic	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	3	3	1	5	1	3	1	5	1	2	2	1	5	2	5	4	5	3	5	4	5	3	3
+P016	Dermatologist	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	5	1	5	1	5	1	5	1	5	1	5	1	5	5	5	5	5	5	5	5	5	5	5	5
+P017	Dermatologist	2-5 years	Private Clinic	No	1	1	1	1	1	1	1	1	1	1	1	1	3	4	3	1	3	1	2	1	4	1	2	3	2	5	3	5	4	5	2	5	2	5	2	2
+P018	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	3	5	1	2	1	4	1	5	1	2	3	3	5	4	5	2	5	2	5	4	5	5	3
+P019	Dermatologist	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	5	2	3	1	2	1	4	1	5	1	3	3	3	5	2	5	3	5	3	5	5	5	5	3
+P020	Dermatologist	<2 years	Private Clinic	No	1	1	1	1	1	1	1	1	1	1	1	1	1	4	3	1	1	1	3	1	4	1	3	3	2	5	2	5	2	5	2	5	2	5	1	1
+P021	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	1	5	1	2	1	3	1	4	1	2	2	4	5	3	5	3	5	3	5	2	5	2	3
+P022	Dermatologist	>10 years	Private Clinic	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	1	5	1	1	1	4	1	4	1	4	3	2	5	5	5	5	5	2	5	5	5	4	5
+P023	Dermatologist	2-5 years	Hospital	No	1	1	1	1	1	1	1	1	1	1	1	1	4	4	4	1	2	1	3	1	3	1	2	4	5	5	1	5	2	5	3	5	1	5	2	2
+P024	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	2	4	1	2	1	4	1	5	1	4	4	2	5	4	5	3	5	2	5	3	5	1	5
+P025	Dermatologist	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	1	5	1	5	1	5	1	4	1	5	1	5	5	5	5	5	5	4	5	5	5	5	4
+P026	Dermatologist	<2 years	Private Clinic	No	1	1	1	1	1	1	0	1	1	1	1	1	2	5	1	1	2	1	3	1	1	1	1	4	1	5	2	5	1	5	2	5	3	5	1	2
+P027	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	3	2	1	5	1	4	1	5	1	2	3	3	5	4	5	3	5	1	5	4	5	4	4
+P028	Dermatologist	>10 years	Private Clinic	Yes	1	1	1	1	1	1	1	1	1	1	1	1	5	3	3	1	5	1	3	1	5	1	2	3	3	5	3	5	5	5	4	5	3	5	1	5
+P029	Dermatologist	2-5 years	Hospital	No	1	1	1	1	1	1	1	1	1	1	0	1	4	5	4	1	2	1	2	1	2	1	2	2	2	5	3	5	1	5	2	5	1	5	3	2
+P030	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	2	1	5	1	2	1	5	1	2	1	3	2	4	5	4	5	3	5	1	5	3	5	4	1
+P031	Dermatologist	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	1	4	1	5	1	5	1	5	1	5	1	5	5	5	5	5	5	5	5	5	5	5	5
+P032	Dermatologist	<2 years	Private Clinic	No	1	1	1	1	1	1	1	1	1	1	1	1	2	1	2	1	3	1	4	1	1	1	1	4	1	5	2	5	1	5	1	5	3	5	2	2
+P033	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	1	2	1	2	1	4	1	5	1	2	1	3	5	3	5	2	5	4	5	4	5	3	4
+P034	Dermatologist	>10 years	Private Clinic	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	2	5	1	3	1	3	1	2	1	4	1	3	5	2	5	5	5	4	5	4	5	5	1
+P035	Dermatologist	2-5 years	Hospital	No	1	1	1	1	1	1	1	1	1	1	1	1	4	5	2	1	2	1	3	1	2	1	5	3	2	5	3	5	1	5	1	5	3	5	3	3
+P036	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	1	2	1	3	1	4	1	4	1	3	3	2	5	1	5	4	5	2	5	5	5	2	4
+P037	Dermatologist	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	2	5	1	5	1	5	1	5	1	5	1	5	5	5	5	5	5	5	5	5	5	3	5
+P038	Dermatologist	<2 years	Private Clinic	No	1	1	1	1	1	1	1	1	1	1	0	1	2	5	1	1	1	1	2	1	1	1	4	5	1	5	2	5	1	5	1	5	2	5	3	2
+P039	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	1	5	1	3	1	4	1	2	1	5	5	4	5	4	5	2	5	4	5	4	5	2	3
+P040	Dermatologist	>10 years	Private Clinic	Yes	1	1	1	1	1	1	1	1	1	1	1	1	5	4	5	1	4	1	5	1	3	1	2	3	5	5	2	5	5	5	1	5	4	5	4	3
+P041	Dermatologist	2-5 years	Hospital	No	1	1	1	1	1	1	1	1	1	1	1	0	2	2	1	1	3	1	2	1	3	1	3	3	4	5	1	5	1	5	1	5	2	5	2	3
+P042	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	3	4	1	3	1	3	1	4	1	5	4	2	5	2	5	2	5	3	5	5	5	3	3
+P043	Dermatologist	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	1	5	1	5	1	5	1	5	1	5	1	5	5	5	5	5	5	5	5	5	5	5	5
+P044	Dermatologist	<2 years	Private Clinic	No	1	1	1	1	1	1	1	1	1	1	1	1	3	4	3	1	3	1	3	1	1	1	2	3	2	5	2	5	1	5	1	5	1	5	1	4
+P045	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	1	4	1	5	1	1	1	3	1	3	3	1	5	4	5	5	5	4	5	4	5	2	3
+P046	Dermatologist	>10 years	Private Clinic	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	1	5	1	2	1	3	1	2	1	4	1	4	5	2	5	3	5	3	5	3	5	5	4
+P047	Dermatologist	2-5 years	Hospital	No	1	1	1	1	1	1	1	1	1	1	1	1	2	3	4	1	2	1	2	1	5	1	3	5	2	5	3	5	2	5	3	5	1	5	3	2
+P048	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	3	4	1	4	1	4	1	1	1	5	2	1	5	5	5	4	5	2	5	3	5	3	2
+P049	Dermatologist	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	5	1	5	1	5	1	5	1	3	1	5	1	5	5	5	5	5	5	5	5	5	5	5	3
+P050	Dermatologist	<2 years	Private Clinic	No	1	1	1	1	1	1	1	1	1	1	0	1	2	4	2	1	1	1	3	1	1	1	1	5	2	5	2	5	2	5	2	5	2	5	1	1
+P051	Dermatologist	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	1	4	1	2	1	3	1	4	1	2	1	5	5	3	5	2	5	4	5	2	5	3	4
+P052	Dermatologist	>10 years	Private Clinic	Yes	1	1	1	1	1	1	1	1	1	1	1	1	2	1	3	1	2	1	4	1	5	1	4	2	2	5	3	5	2	5	5	5	4	5	3	5
+P053	Pharmacist	>10 years	Community Pharmacy	Yes	1	1	1	1	1	1	0	1	0	1	0	1	5	1	2	1	3	1	5	1	2	1	2	4	3	5	2	5	2	5	4	5	2	5	1	4
+P054	Pharmacist	5-10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	1	1	0	1	0	1	2	1	1	1	5	1	3	1	3	1	5	3	4	5	4	5	1	5	2	5	1	5	4	1
+P055	Pharmacist	2-5 years	Community Pharmacy	No	1	1	1	1	1	1	0	1	0	0	0	0	1	1	2	1	2	1	3	1	2	1	1	3	1	5	1	5	2	5	2	5	1	5	1	3
+P056	Pharmacist	>10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	4	5	1	2	1	2	1	4	1	5	1	2	5	4	5	1	5	4	5	3	5	2	5
+P057	Pharmacist	<2 years	Community Pharmacy	No	1	1	1	1	1	1	0	1	0	1	0	0	1	3	1	1	1	1	1	1	1	1	2	5	2	5	3	5	1	5	1	5	1	5	2	1
+P058	Pharmacist	5-10 years	Community Pharmacy	No	1	1	1	1	1	1	0	0	0	1	1	1	2	4	1	1	4	1	2	1	1	1	5	3	4	5	1	5	1	5	1	5	2	5	2	3
+P059	Pharmacist	>10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	0	1	4	1	5	1	5	1	5	1	3	1	2	3	2	5	4	5	3	5	3	5	2	5	4	5
+P060	Pharmacist	2-5 years	Community Pharmacy	No	1	1	1	1	1	1	1	0	0	1	0	1	2	3	3	1	2	1	2	1	1	1	3	1	2	5	2	5	1	5	1	5	3	5	2	2
+P061	Pharmacist	5-10 years	Community Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	1	0	2	4	2	1	5	1	5	1	2	1	5	1	5	5	2	5	3	5	2	5	2	5	2	4
+P062	Pharmacist	>10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	0	1	1	1	1	1	5	1	5	1	4	1	5	1	5	1	5	1	5	5	3	5	3	5	5	5	3	5	5	5
+P063	Pharmacist	2-5 years	Community Pharmacy	No	1	1	1	1	1	1	0	1	1	0	1	1	2	3	2	1	2	1	3	1	4	1	2	3	2	5	1	5	1	5	3	5	2	5	2	1
+P064	Pharmacist	5-10 years	Hospital Pharmacy	No	1	1	1	1	1	1	1	1	1	1	0	1	2	1	2	1	3	1	5	1	4	1	4	3	2	5	2	5	3	5	1	5	2	5	5	4
+P065	Pharmacist	>10 years	Community Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	1	5	1	3	1	5	1	3	1	5	4	5	5	3	5	3	5	3	5	2	5	3	5
+P066	Pharmacist	<2 years	Community Pharmacy	No	1	1	1	1	1	1	1	0	0	1	1	1	2	3	3	1	1	1	1	1	2	1	1	5	1	5	2	5	1	5	1	5	1	5	3	2
+P067	Pharmacist	5-10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	1	1	0	1	1	1	4	3	4	1	1	1	3	1	4	1	5	2	3	5	2	5	2	5	3	5	3	5	1	3
+P068	Pharmacist	>10 years	Community Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	1	1	5	1	5	1	5	1	5	1	5	1	5	1	5	5	4	5	3	5	5	5	3	5	3	5
+P069	Pharmacist	2-5 years	Hospital Pharmacy	No	1	1	1	1	1	1	1	1	0	1	1	0	2	4	2	1	1	1	3	1	2	1	5	1	2	5	1	5	2	5	1	5	1	5	3	2
+P070	Pharmacist	5-10 years	Community Pharmacy	No	1	1	1	1	1	1	0	1	1	1	1	1	4	2	5	1	1	1	5	1	2	1	2	1	4	5	1	5	2	5	3	5	2	5	3	4
+P071	Pharmacist	>10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	1	5	1	4	1	2	1	2	1	5	4	3	5	5	5	3	5	2	5	2	5	4	4
+P072	Pharmacist	<2 years	Community Pharmacy	No	1	1	1	1	1	1	0	1	1	0	1	1	2	3	2	1	2	1	2	1	2	1	3	2	1	5	1	5	1	5	3	5	2	5	2	1
+P073	Pharmacist	5-10 years	Community Pharmacy	No	1	1	1	1	1	1	0	1	0	1	1	1	1	2	3	1	4	1	4	1	5	1	3	2	2	5	5	5	1	5	2	5	2	5	2	2
+P074	Pharmacist	>10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	1	1	5	2	5	1	4	1	2	1	5	1	2	3	4	5	2	5	4	5	4	5	3	5	5	2
+P075	Pharmacist	2-5 years	Community Pharmacy	No	1	1	1	1	1	1	0	0	1	1	1	1	2	2	3	1	3	1	1	1	3	1	3	3	3	5	2	5	3	5	2	5	1	5	2	1
+P076	Pharmacist	5-10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	0	1	1	1	1	1	3	3	4	1	2	1	3	1	5	1	4	2	3	5	3	5	3	5	3	5	3	5	3	2
+P077	Pharmacist	>10 years	Community Pharmacy	Yes	1	1	1	1	1	1	0	1	1	1	1	1	5	2	5	1	5	1	5	1	4	1	5	1	5	5	4	5	5	5	1	5	3	5	5	5
+P078	Pharmacist	<2 years	Hospital Pharmacy	No	1	1	1	1	1	1	1	1	0	1	0	0	1	5	2	1	2	1	1	1	3	1	1	4	1	5	2	5	2	5	1	5	2	5	1	2
+P079	Pharmacist	5-10 years	Community Pharmacy	No	1	1	1	1	1	1	1	1	1	1	1	0	5	1	3	1	2	1	2	1	5	1	3	3	4	5	2	5	2	5	5	5	1	5	1	4
+P080	Pharmacist	>10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	2	4	1	2	1	5	1	3	1	3	1	4	5	2	5	4	5	4	5	3	5	2	4
+P081	Pharmacist	2-5 years	Community Pharmacy	No	1	1	1	1	1	1	0	1	0	1	0	0	3	3	2	1	3	1	2	1	4	1	1	3	4	5	2	5	2	5	1	5	1	5	1	1
+P082	Pharmacist	5-10 years	Community Pharmacy	No	1	1	1	1	1	1	1	1	1	1	1	0	4	3	5	1	3	1	2	1	4	1	3	2	4	5	2	5	2	5	1	5	4	5	3	3
+P083	Pharmacist	>10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	1	0	1	1	1	1	5	1	5	1	5	1	4	1	4	1	5	1	5	5	3	5	2	5	5	5	5	5	3	5
+P084	Pharmacist	<2 years	Community Pharmacy	No	1	1	1	1	1	1	1	0	1	1	0	0	4	5	2	1	3	1	3	1	2	1	4	5	3	5	3	5	1	5	1	5	1	5	1	1
+P085	Pharmacist	5-10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	1	0	3	1	4	1	5	1	5	1	1	1	1	2	4	5	3	5	1	5	2	5	2	5	2	3
+P086	Pharmacist	>10 years	Community Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	1	1	1	2	5	1	5	1	5	1	4	1	2	3	5	5	3	5	2	5	3	5	5	5	1	4
+P087	Pharmacist	2-5 years	Community Pharmacy	No	1	1	1	1	1	1	1	1	0	1	1	0	2	4	2	1	4	1	4	1	2	1	3	3	2	5	1	5	1	5	2	5	1	5	3	4
+P088	Pharmacist	5-10 years	Hospital Pharmacy	No	1	1	1	1	1	1	1	1	0	1	1	0	4	3	2	1	3	1	4	1	3	1	5	2	3	5	2	5	2	5	3	5	1	5	4	4
+P089	Pharmacist	>10 years	Community Pharmacy	Yes	1	1	1	1	1	1	1	0	1	1	1	1	5	1	4	1	4	1	5	1	5	1	5	1	2	5	3	5	5	5	5	5	4	5	4	5
+P090	Pharmacist	<2 years	Hospital Pharmacy	No	1	1	1	1	1	1	0	0	1	1	0	0	1	4	2	1	2	1	1	1	2	1	1	4	2	5	1	5	2	5	2	5	1	5	1	2
+P091	Pharmacist	5-10 years	Community Pharmacy	No	1	1	1	1	1	1	1	1	0	1	1	1	3	1	4	1	2	1	3	1	4	1	5	4	2	5	1	5	3	5	3	5	3	5	4	3
+P092	Pharmacist	>10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	1	1	3	3	4	1	3	1	4	1	5	1	4	3	5	5	2	5	2	5	4	5	3	5	3	4
+P093	Pharmacist	2-5 years	Community Pharmacy	No	1	1	1	1	1	1	0	0	1	0	0	1	1	4	3	1	5	1	1	1	4	1	3	4	3	5	3	5	2	5	1	5	1	5	1	1
+P094	Pharmacist	5-10 years	Community Pharmacy	No	1	1	1	1	1	1	1	1	1	0	1	1	5	5	5	1	3	1	3	1	5	1	3	3	3	5	3	5	5	5	2	5	3	5	2	1
+P095	Pharmacist	>10 years	Hospital Pharmacy	Yes	1	1	1	1	1	1	1	1	1	1	1	0	5	1	5	1	4	1	5	1	4	1	5	1	4	5	4	5	3	5	5	5	3	5	4	5
+P096	Nurse	>10 years	Hospital	No	1	1	1	1	1	1	0	0	0	0	0	0	2	4	2	1	2	1	1	1	3	1	3	2	2	5	1	5	2	5	1	5	2	5	1	2
+P097	Nurse	5-10 years	Hospital	Yes	1	1	1	1	1	1	0	1	0	0	1	1	4	2	3	1	5	1	4	1	3	1	3	4	3	5	1	5	1	5	3	5	2	5	5	1
+P098	Nurse	2-5 years	Hospital	No	1	1	1	1	1	1	0	0	0	1	0	1	1	4	1	1	1	1	1	1	1	1	2	4	2	5	2	5	1	5	2	5	1	5	1	2
+P099	Nurse	>10 years	Hospital	Yes	1	1	1	1	1	1	0	1	0	1	1	0	2	3	5	1	5	1	3	1	3	1	4	3	1	5	3	5	2	5	4	5	4	5	2	3
+P100	Nurse	<2 years	Hospital	No	1	1	1	1	1	1	0	0	0	0	0	0	2	2	2	1	2	1	2	1	3	1	2	5	1	5	2	5	2	5	1	5	2	5	1	2
+P101	Nurse	5-10 years	Hospital	No	1	1	1	1	1	1	0	1	0	1	0	1	2	3	1	1	2	1	3	1	4	1	3	3	2	5	1	5	1	5	1	5	1	5	3	2
+P102	Nurse	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	2	1	5	1	4	1	1	1	5	1	3	3	3	5	2	5	4	5	5	5	3	5	1	3
+P103	Nurse	2-5 years	Hospital	No	1	1	1	1	1	1	0	0	0	0	0	0	2	3	2	1	4	1	5	1	2	1	1	5	2	5	2	5	2	5	1	5	2	5	1	1
+P104	Nurse	5-10 years	Hospital	No	1	1	1	1	1	1	1	1	1	0	0	1	4	3	2	1	5	1	4	1	5	1	4	5	2	5	2	5	2	5	2	5	2	5	3	3
+P105	Nurse	>10 years	Hospital	Yes	1	1	1	1	1	1	0	0	1	1	0	1	5	2	4	1	4	1	5	1	5	1	5	2	4	5	3	5	3	5	2	5	3	5	4	5
+P106	Nurse	<2 years	Hospital	No	1	1	1	1	1	1	0	0	0	1	1	0	2	4	1	1	2	1	1	1	3	1	1	4	2	5	1	5	1	5	2	5	1	5	2	2
+P107	Nurse	5-10 years	Hospital	Yes	1	1	1	1	1	1	1	1	0	0	1	1	3	2	5	1	2	1	4	1	3	1	5	4	3	5	2	5	1	5	2	5	3	5	2	3
+P108	Nurse	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	0	1	5	4	4	1	4	1	3	1	2	1	5	1	3	5	3	5	2	5	4	5	2	5	5	2
+P0109	Nurse	2-5 years	Hospital	No	1	1	1	1	1	1	1	0	0	0	0	0	5	4	2	1	2	1	4	1	1	1	2	3	1	5	2	5	1	5	2	5	1	5	2	2
+P110	Nurse	5-10 years	Hospital	No	1	1	1	1	1	1	1	1	1	0	0	0	2	2	5	1	5	1	1	1	4	1	3	2	1	5	2	5	4	5	2	5	3	5	3	1
+P111	Nurse	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	4	1	3	1	2	1	2	1	5	1	5	3	4	5	3	5	2	5	2	5	5	5	4	3
+P112	Nurse	<2 years	Hospital	No	1	1	1	1	1	1	0	0	0	0	1	0	4	5	3	1	4	1	2	1	2	1	1	3	1	5	1	5	3	5	1	5	2	5	1	2
+P113	Nurse	5-10 years	Hospital	No	1	1	1	1	1	1	1	1	1	1	0	0	5	3	3	1	3	1	4	1	2	1	4	2	1	5	2	5	2	5	4	5	1	5	2	4
+P114	Nurse	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	0	1	1	1	5	3	4	1	5	1	3	1	3	1	5	4	3	5	1	5	3	5	4	5	4	5	3	3
+P115	Nurse	2-5 years	Hospital	No	1	1	1	1	1	1	0	0	0	0	0	0	2	4	4	1	4	1	3	1	2	1	3	4	2	5	1	5	2	5	1	5	2	5	2	1
+P116	Nurse	5-10 years	Hospital	Yes	1	1	1	1	1	1	0	1	1	1	1	1	4	4	4	1	4	1	3	1	4	1	3	2	1	5	5	5	1	5	1	5	1	5	3	4
+P117	Nurse	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	0	1	5	1	2	1	3	1	3	1	3	1	3	1	3	5	4	5	4	5	3	5	2	5	3	4
+P118	Nurse	<2 years	Hospital	No	1	1	1	1	1	1	0	0	0	0	0	0	2	5	2	1	1	1	1	1	2	1	3	5	2	5	1	5	2	5	2	5	2	5	1	1
+P119	Nurse	5-10 years	Hospital	No	1	1	1	1	1	1	0	1	1	1	0	1	3	1	2	1	4	1	5	1	4	1	2	3	3	5	1	5	1	5	3	5	3	5	4	1
+P120	Nurse	>10 years	Hospital	Yes	1	1	1	1	1	1	1	1	1	1	1	1	2	4	5	1	5	1	3	1	5	1	4	3	3	5	5	5	2	5	2	5	4	5	3	2
