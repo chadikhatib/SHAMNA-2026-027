@@ -1,83 +1,74 @@
-# SHAMNA-2026-027: KAP-Guided Translational Pilot Study in Atopic Dermatitis
+SHAMNA-2026-027: Raw Data Repository
+Study Title: From Steroid Misuse to Supportive Dermatologic Care: A KAP-Informed Translational Pilot Study in Atopic-Prone Xerotic Skin
+Protocol: SHAMNA-2026-027 | ClinicalTrials.gov: NCT07618234
+Authors: Chadi Khatib, Mahmoud Bitar, Haya Farhat, Nagham Saleh
+Institution: Faculty of Pharmacy, Manara University, Latakia, Syria
+Corresponding Author: chadi.khatib@manara.edu.sy
+________________________________________
+Repository Overview
+This repository contains the de-identified raw datasets supporting the manuscript and supplementary materials. All data are provided in UTF-8 encoded CSV format with Arabic text preserved for the public survey dataset.
+________________________________________
+File Inventory
+File	Description	N	Encoding
+00_Data_Dictionary.csv	Comprehensive variable documentation	104 variables	UTF-8
+01_HCP_KAP_Raw_Data_n120.csv	Healthcare Professional KAP survey raw data	120	UTF-8
+02_Clinical_Trial_Raw_Data_n30.csv	Pilot clinical trial participant-level data	30	UTF-8
+03_Public_KAP_Survey_Raw_Data_n306.csv	Public KAP survey raw data (Arabic)	306	UTF-8 with BOM
+________________________________________
+Dataset Descriptions
+01. HCP KAP Raw Data (01_HCP_KAP_Raw_Data_n120.csv)
+Population: Healthcare professionals (Dermatologists, Pharmacists, Nurses)
+Sample Size: n = 120
+Domains: - Demographics: Profession, experience, workplace, TCS training status - Knowledge (K1-K12): Dichotomous scoring (0/1) on TCS management principles - Attitude (A1-A12): 5-point Likert scale (1=Strongly disagree to 5=Strongly agree) - Practice (P1-P12): 5-point frequency scale (1=Never to 5=Always)
+Key Features: - Reverse-scored items marked in variable names (e.g., a2_tcs_always_dangerous) - Zero-variance ceiling-effect items documented in data dictionary - Discriminating-item subset analyses supported by variable naming
+________________________________________
+02. Clinical Trial Raw Data (02_Clinical_Trial_Raw_Data_n30.csv)
+Design: Double-blind, randomized, vehicle-controlled pilot trial (1:1:1 allocation)
+Sample Size: n = 30 (10 per group)
+Treatment Groups: - EEP_3pct: Ethanolic Extract of Propolis 3% - Crude_5pct: Micronized Crude Propolis 5% - Vehicle: Placebo control
+Outcome Measures: | Variable | Timepoints | Scale | Type | |———-|———–|——-|——| | Clinical Dryness Score | Baseline, Week 2, Week 4 | 0-4 (ordinal) | Primary | | Local SCORAD† | Baseline, Week 2, Week 4 | Continuous | Exploratory | | Pruritus VAS | Baseline, Week 2, Week 4 | 0-10 | Secondary | | Skin Comfort | Baseline, Week 2, Week 4 | 1-5 (Likert) | Secondary | | Subject Satisfaction | Week 4 only | 1-5 (Likert) | Secondary |
+† Exploratory endpoint — see manuscript Section 2.8 and SAP v2.0
+________________________________________
+03. Public KAP Survey Raw Data (03_Public_KAP_Survey_Raw_Data_n306.csv)
+Population: Members of the Syrian public
+Sample Size: n = 306 (after excluding non-consenting participants)
+Language: Arabic (original response text preserved)
+Encoding: UTF-8 with BOM for Excel compatibility
+Domains: - Demographics: Age, sex, education, occupation, marital status, residence, insurance - Knowledge (K1-K12): Multiple-choice responses (Arabic text) - Attitude (A1-A12): 5-point Likert scale responses (Arabic text) - Practice (P1-P12): Multiple-choice and multi-select responses (Arabic text)
+Note: P6 and P12 are multi-select items with comma-separated values.
+________________________________________
+Data Dictionary
+The 00_Data_Dictionary.csv file provides comprehensive metadata for all variables:
+Column	Description
+dataset	Source CSV file
+variable_name	Standardized variable name
+data_type	Variable type (binary, ordinal, categorical, continuous, text)
+description	Full variable description with scoring notes
+dataset_category	Dataset category (HCP / Clinical / Public)
+________________________________________
+Usage Notes
+For Researchers
+1.	All datasets are de-identified — no personally identifiable information is included
+2.	Arabic text in the public survey dataset requires UTF-8 compatible software
+3.	Reverse-scored items are indicated in variable names and descriptions
+4.	Multi-select items (P6, P12 in public survey) contain comma-separated values
+For Reproducibility
+•	Datasets correspond to the final locked database used for all manuscript analyses
+•	All statistical outputs in supplementary tables are traceable to these raw data
+•	Analysis code (Python/SPSS) is available in the main study GitHub repository
+________________________________________
+Citation
+If using these data, please cite:
+Khatib C, Bitar M, Farhat H, Saleh N. From Steroid Misuse to Supportive Dermatologic Care: A KAP-Informed Translational Pilot Study in Atopic-Prone Xerotic Skin. Manuscript under review. 2026.
+________________________________________
+Ethics and Permissions
+•	Ethics Approval: SHAMNA Biomedical Ethics Committee (SHAMNA-2026-027)
+•	ClinicalTrials.gov: NCT07618234
+•	Data Sharing Plan: Per ClinicalTrials.gov registration — de-identified individual participant data available within 6 months following publication
+•	Restrictions: Clinical photographs excluded to protect participant privacy
+________________________________________
+Contact
+For data access inquiries or collaboration requests:
+📧 chadi.khatib@manara.edu.sy
+________________________________________
 
-**ClinicalTrials.gov:** NCT07618234  
-**Protocol:** SHAMNA-2026-027 v1.0 | **Design:** Quadruple-Blind, Randomized, Vehicle-Controlled, Parallel-Group  
-**N = 30** (3 groups: A/B/C)
-
----
-
-## 📁 Repository Structure
-
-| Directory | Contents |
-|-----------|----------|
-| `protocol/` | Study protocol (S1), SAP v1.0 (S2), amendments (S3) |
-| `data/` | Raw and processed datasets (CSV) + data dictionary |
-| `analysis/` | Python statistical analysis scripts |
-| `figures/` | Publication-ready images (300 dpi) |
-| `supplementary/` | Supplementary tables and methods |
-| `checklists/` | CONSORT 2010, SPIRIT 2013, STROBE checklists |
-| `docs/` | Ethics approvals and regulatory documents |
-
----
-
-## 🔬 Study Overview
-
-| Parameter | Value |
-|-----------|-------|
-| **Registration** | NCT07618234 |
-| **Status** | Registered, posting within 2 business days |
-| **Population** | Adults with mild-to-moderate atopic dermatitis |
-| **Intervention** | Active: Propolis-based formulation |
-| **Control** | Vehicle (placebo) |
-| **Primary Endpoint** | SCORAD-50 response at Week 6 |
-| **Secondary Endpoints** | SCORAD-75, SCORAD-90, VAS, Comfort, Shine |
-| **Analysis Population** | N = 30 (Intention-to-treat) |
-
----
-
-## 📊 Results
-
-Statistical analysis in progress. Results will be updated upon completion.
-
----
-
-## ⚠️ Critical Rules
-
-- **ALWAYS** "Quadruple-Blind" (not "Double-Blind")
-- **ALWAYS** exact p-values (e.g., p = 0.0003, not p less than 0.05)
-
----
-
-## 📚 Citation
-
-```bibtex
-@dataset{shamna2026,
-  author = {Khatib, Chadi},
-  title = {SHAMNA-2026-027: KAP-Guided Translational Pilot Study in Atopic Dermatitis},
-  year = {2026},
-  doi = {10.5281/zenodo.20452809},
-  url = {https://github.com/chadikhatib/SHAMNA-2026-027}
-}
-⚠️ Academic Access Only
-This repository is intended for academic researchers and health professionals only.
-Permitted:
-
-    Viewing protocol and datasets
-    Citation in published research (with attribution)
-    Scientific correspondence with authors
-
-Prohibited:
-
-    Commercial use in any form
-    Modification or redistribution of modified data
-    Use in training commercial AI models
-    Claiming authorship or ownership
-
-📧 Contact
-For academic inquiries:  
-Chadi Khatib — Manara University  
-Mahmoud Bitar — Manara University  
-Haya Farhat — Manara University  
-Nagham Saleh — Manara University
-
-Last updated: 2026-05-30 | DOI: 10.5281/zenodo.20452809
