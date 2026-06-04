@@ -1,0 +1,105 @@
+dataset	variable_name	data_type	description	dataset_category
+01_HCP_KAP_Raw_Data_n120.csv	participant_id	string	Unique participant identifier (P001-P120)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	profession	categorical	Professional role: Dermatologist, Pharmacist, Nurse	HCP
+01_HCP_KAP_Raw_Data_n120.csv	experience_years	categorical	Years of clinical experience: <2, 2-5, 5-10, >10 years	HCP
+01_HCP_KAP_Raw_Data_n120.csv	workplace	categorical	Primary workplace: Hospital, Community Pharmacy, Private Clinic, Hospital Pharmacy	HCP
+01_HCP_KAP_Raw_Data_n120.csv	tcs_training	binary	Prior formal TCS training received: Yes/No	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k1_firstline_treatment	binary	K1: First-line treatment for mild-to-moderate AD (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k2_emollient_importance	binary	K2: Importance of emollients (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k3_barrier_treatment	binary	K3: Most common barrier to treatment (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k4_propolis_knowledge	binary	K4: Knowledge level of propolis (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k5_beeswax_evaluation	binary	K5: Evaluation of beeswax (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k6_propolis_beeswax_synergy	binary	K6: Propolis-beeswax synergy hypothesis (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k7_tcs_misuse_factors	binary	K7: TCS misuse driven by local factors (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k8_propolis_evidence_level	binary	K8: Evidence level for propolis in AD (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k9_pharmacist_role	binary	K9: Role of pharmacist in TCS counseling (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k10_patient_education	binary	K10: Patient education on TCS risks (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k11_stepdown_protocol	binary	K11: Step-down protocol for TCS (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	k12_steroid_atrophy_recognition	binary	K12: Recognition of steroid-induced skin atrophy (1=correct, 0=incorrect)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a1_tcs_safety_correct_use	ordinal	A1: TCS safe when used correctly (1=Strongly disagree to 5=Strongly agree)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a2_tcs_always_dangerous	ordinal	A2: TCS always dangerous [REVERSE] (1=Strongly disagree to 5=Strongly agree)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a3_emollients_cornerstone	ordinal	A3: Emollients are cornerstone of AD treatment (1-5 Likert)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a4_fear_prescribing_children	ordinal	A4: Fear of prescribing TCS to children [REVERSE] (1-5 Likert)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a5_preventive_treatment_effective	ordinal	A5: Preventive treatment is effective (1-5 Likert)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a6_stop_immediately_improve	ordinal	A6: Patients should stop immediately when symptoms improve [REVERSE] (1-5 Likert)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a7_patient_education_essential	ordinal	A7: Patient education is essential (1-5 Likert)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a8_corticosteroids_addiction	ordinal	A8: Corticosteroids cause addiction [REVERSE] (1-5 Likert)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a9_fingertip_unit_useful	ordinal	A9: Fingertip unit is useful for patient guidance (1-5 Likert)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a10_never_use_face	ordinal	A10: Should never be used on the face [REVERSE] (1-5 Likert)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a11_regular_followup_important	ordinal	A11: Regular follow-up is important (1-5 Likert)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	a12_purchase_without_prescription	ordinal	A12: Should be purchased without prescription [REVERSE] (1-5 Likert)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p1_tcs_firstline_frequency	ordinal	P1: Topical Corticosteroid as First-line (1=Never to 5=Always)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p2_routine_emollients	ordinal	P2: Routine Use of Emollients (1=Never to 5=Always)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p3_specialist_referral	ordinal	P3: Specialist Referral for Complex Cases (1=Never to 5=Always)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p4_recommend_natural_products	ordinal	P4: Recommending Natural Products (1=Never to 5=Always)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p5_patient_education_steroid_risks	ordinal	P5: Patient Education on Steroid Risks (1=Never to 5=Always)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p6_assess_adherence_gaps	ordinal	P6: Assessing Treatment Adherence Gaps (1=Never to 5=Always)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p7_derm_assessment_before_rx	ordinal	P7: Dermatological Assessment Before Rx (1=Never to 5=Always)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p8_manage_secondary_infections	ordinal	P8: Management of Secondary Infections (1=Never to 5=Always)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p9_followup_timing	ordinal	P9: Follow-up Timing (1=Never to 5=Always)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p10_confidence_natural_adjuvants	ordinal	P10: Confidence in Natural Adjuvants (1=Never to 5=Always)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p11_recommend_therapeutic_emollients	ordinal	P11: Recommending Therapeutic Emollients (1=Never to 5=Always)	HCP
+01_HCP_KAP_Raw_Data_n120.csv	p12_address_steroid_phobia	ordinal	P12: Addressing Steroid Phobia (1=Never to 5=Always)	HCP
+02_Clinical_Trial_Raw_Data_n30.csv	participant_id	string	Unique participant identifier (P01-P30)	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	treatment_group	categorical	Treatment allocation: EEP_3pct, Crude_5pct, Vehicle	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	sex	categorical	Participant sex: F=Fale, M=Male	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	age_years	integer	Participant age in years	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	dryness_score_baseline	ordinal	Clinical Dryness Score at Baseline (Day 0): 0-4 scale	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	dryness_score_week2	ordinal	Clinical Dryness Score at Week 2 (Day 14): 0-4 scale	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	dryness_score_week4	ordinal	Clinical Dryness Score at Week 4 (Day 28): 0-4 scale	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	local_scorad_baseline	continuous	Local SCORAD at Baseline (exploratory endpoint)	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	local_scorad_week2	continuous	Local SCORAD at Week 2 (exploratory endpoint)	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	local_scorad_week4	continuous	Local SCORAD at Week 4 (exploratory endpoint)	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	pruritus_vas_baseline	continuous	Pruritus VAS at Baseline (0-10 scale)	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	pruritus_vas_week2	continuous	Pruritus VAS at Week 2 (0-10 scale)	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	pruritus_vas_week4	continuous	Pruritus VAS at Week 4 (0-10 scale)	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	skin_comfort_baseline	ordinal	Skin Comfort at Baseline (1-5 Likert)	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	skin_comfort_week2	ordinal	Skin Comfort at Week 2 (1-5 Likert)	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	skin_comfort_week4	ordinal	Skin Comfort at Week 4 (1-5 Likert)	Clinical
+02_Clinical_Trial_Raw_Data_n30.csv	subject_satisfaction_week4	ordinal	Subject Satisfaction at Week 4 (1-5 Likert)	Clinical
+03_Public_KAP_Survey_Raw_Data_n306.csv	participant_id	string	Unique participant identifier (PUB_001-PUB_306)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	timestamp	datetime	Survey submission timestamp	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	informed_consent	binary	Informed consent: Yes/No	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	age_group	categorical	Age group: <18, 18-30, 31-45, 46-60, >60	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	sex	categorical	Sex: Male/Female (Arabic)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	education_level	categorical	Education: Secondary or less, Bachelor, Graduate (MSc/PhD)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	occupation	categorical	Occupation category	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	marital_status	categorical	Marital status	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	residence	categorical	Residence: Urban (City) or Rural (Village)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	health_insurance	categorical	Health insurance: Yes/No/Missing	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k1_ad_definition	categorical	K1: Atopic dermatitis definition (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k2_ad_symptoms	categorical	K2: Main symptoms of eczema (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k3_ad_chronic_nature	categorical	K3: Chronic nature of eczema (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k4_firstline_treatment	categorical	K4: First-line treatment for mild/moderate eczema (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k5_tcs_safety	categorical	K5: Topical corticosteroid safety perception (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k6_propolis_definition	categorical	K6: Propolis definition (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k7_propolis_traditional_use	categorical	K7: Propolis traditional use (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k8_scabies_definition	categorical	K8: Scabies definition (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k9_scabies_symptoms	categorical	K9: Scabies symptoms (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k10_scabies_eczema_confusion	categorical	K10: Scabies-eczema clinical confusion (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k11_self_treatment_risk	categorical	K11: Self-treatment risk (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	k12_doctor_visit_timing	categorical	K12: Doctor visit timing (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a1_eczema_hygiene_cause	ordinal	A1: Eczema caused by lack of hygiene (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a2_eczema_chronic_management	ordinal	A2: Eczema requires long-term management (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a3_tcs_benefit_caution	ordinal	A3: TCS beneficial but requires caution (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a4_tcs_side_effect_fear	ordinal	A4: Fear of TCS side effects [REVERSE] (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a5_natural_always_safe	ordinal	A5: Natural treatments always safe [REVERSE] (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a6_propolis_tcs_alternative	ordinal	A6: Propolis as TCS alternative (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a7_propolis_if_evidence	ordinal	A7: Would use propolis if evidence supports (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a8_pharmacist_sufficient	ordinal	A8: Pharmacist consultation sufficient [REVERSE] (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a9_home_treatment_acceptable	ordinal	A9: Home treatment before diagnosis acceptable [REVERSE] (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a10_scabies_tcs_treatment	ordinal	A10: Scabies treatable with TCS [REVERSE] (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a11_self_diagnosis_acceptable	ordinal	A11: Self-diagnosis acceptable [REVERSE] (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	a12_advice_before_treatment	ordinal	A12: Doctor/pharmacist advice necessary (1-5 Likert)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p1_first_step_skin_symptoms	categorical	P1: First step when skin symptoms appear (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p2_tcs_used_for_eczema	categorical	P2: Ever used TCS for eczema (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p3_tcs_usage_compliance	categorical	P3: TCS usage compliance (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p4_natural_treatments_used	categorical	P4: Ever used natural treatments (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p5_propolis_ointment_try	categorical	P5: Would try propolis ointment (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p6_natural_treatment_motivators	text	P6: Motivators for natural treatment (multiple select)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p7_nocturnal_itching_burrows	categorical	P7: Nocturnal itching with burrows (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p8_scabies_symptoms_action	categorical	P8: Action if scabies symptoms appear (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p9_self_treatment_without_diagnosis	categorical	P9: Self-treatment without diagnosis (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p10_dermatologist_visits_annual	categorical	P10: Annual dermatologist visits (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p11_bee_product_allergy	categorical	P11: Bee product allergy (multiple choice)	Public
+03_Public_KAP_Survey_Raw_Data_n306.csv	p12_health_information_source	text	P12: Health information source (multiple select)	Public
