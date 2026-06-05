@@ -1,0 +1,1152 @@
+SUPPLEMENTARY TABLES
+From Steroid Misuse to Supportive Dermatologic Care: A KAP-Informed 
+Translational Pilot Study in Atopic-Prone Xerotic Skin
+
+Chadi Khatib, Mahmoud Bitar, Haya Farhat, Nagham Saleh
+Faculty of Pharmacy, Manara University, Syria
+Corresponding Author: chadi.khatib@manara.edu.sy
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+Table S1: Full KAP Public Survey Frequencies (n = 306)
+Table S2: Full KAP Healthcare Professional Survey Frequencies (n = 120)
+Table S3: Cronbach's Alpha Detailed Breakdown
+Table S4: Summary of Item-Level Variance Analysis (n = 120)
+Table S5: Association Between Prior Formal TCS Training and KAP Domain Scores
+Table S6: Distribution of KAP Levels
+Table S7: TCS Training as Predictor of Adequate Practice — Logistic Regression
+Table S8: Correlation Analysis Between KAP Domains
+Table S9: Fisher Exact Test — Predictors of Adequate Practice
+Table S10: Detailed Exploratory Modified Local SCORAD†† Data by Participant and Visit (n = 30)
+Table S11: Post-Hoc Power Analysis and Sample Size Projections
+Table S12: Complete Statistical Output — Normality Tests (Shapiro-Wilk)
+Table S13: Complete Statistical Output — Kruskal-Wallis Tests
+Table S14: Complete Statistical Output — Mann-Whitney U Pairwise Comparisons
+Table S15: Complete Statistical Output — Wilcoxon Signed-Rank Tests
+Table S16: Complete Statistical Output — Friedman Tests
+Table S17: Exploratory Effect Size Analysis (Cliff's Delta)
+Table S18: Methodological Footnotes and Statistical Framework
+
+================================================================================
+TABLE S1: FULL KAP PUBLIC SURVEY FREQUENCIES (N = 306)
+================================================================================
+
+SECTION A: DEMOGRAPHICS
+
+Variable                          Category                          n      %
+--------------------------------------------------------------------------------
+D1. Age                           <18 years                          29    9.5
+                                  18-30 years                       200   65.4
+                                  31-45 years                        53   17.3
+                                  46-60 years                        20    6.5
+                                  >60 years                           4    1.3
+
+D2. Gender                        Male                               83   27.1
+                                  Female                            223   72.9
+
+D3. Education                     Secondary or less                  36   11.8
+                                  Bachelor's degree                 244   79.7
+                                  Graduate (MSc/PhD)                 26    8.5
+
+D4. Occupation                    Student                           169   55.2
+                                  Private employee                   47   15.4
+                                  Government employee                32   10.5
+                                  Self-employed                      26    8.5
+                                  Housewife                          22    7.2
+                                  Unemployed                          5    1.6
+                                  Retired                             5    1.6
+
+D5. Marital Status                Single                            226   73.9
+                                  Married                            69   22.5
+                                  Divorced                           10    3.3
+                                  Widowed                             1    0.3
+
+D6. Residence                     Urban (City)                      274   89.5
+                                  Rural (Village)                    32   10.5
+
+D7. Health Insurance              No                                241   78.8
+                                  Yes                                59   19.3
+                                  Missing                             6    2.0
+
+Note: n = 306 (total valid responses after excluding non-consenting participants).
+Percentages rounded to one decimal place. Missing data counts represent 
+non-responses per item.
+
+--------------------------------------------------------------------------------
+SECTION B: KNOWLEDGE DOMAIN (K1-K12)
+--------------------------------------------------------------------------------
+
+Item   Question                                           Correct   n     %
+                                                              Response
+--------------------------------------------------------------------------------
+K1     Atopic dermatitis (eczema) is:                     Opt 1:   223  72.9
+       (Arabic text)                                      Chronic 
+                                                          non-infectious 
+                                                          skin inflammation
+       * Opt 1: Chronic non-infectious skin inflammation   223  72.9
+       * Opt 2: Acute temporary condition                   22   7.2
+       * Opt 3: Infectious skin disease                    37  12.1
+       * Opt 4: Don't know                                 24   7.8
+       * Opt 5: Type of eczema                              0   0.0
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-5 = 0 points
+
+K2     What are the main symptoms of eczema?              Opt 1:   274  89.5
+       (Arabic text)                                      Redness,
+                                                          itching, 
+                                                          and dryness
+       * Opt 1: Redness, itching, and dryness             274  89.5
+       * Opt 2: Scaling only                                4   1.3
+       * Opt 3: Psoriatic blisters                          7   2.3
+       * Opt 4: Don't know                                 21   6.9
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-4 = 0 points
+
+K3     Eczema is a chronic disease characterized by:      Opt 1:   254  83.0
+       (Arabic text)                                      Relapses
+                                                          and remissions
+       * Opt 1: Relapses and remissions                   254  83.0
+       * Opt 2: Permanent complete healing                  7   2.3
+       * Opt 3: Continuous worsening                       14   4.6
+       * Opt 4: Don't know                                 31  10.1
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-4 = 0 points
+
+K4     First-line treatment for mild/moderate eczema:     Opt 1:   176  57.5
+       (Arabic text)                                      Skin 
+                                                          moisturizers
+       * Opt 1: Skin moisturizers                         176  57.5
+       * Opt 2: Corticosteroids immediately                48  15.7
+       * Opt 3: Antibiotics or anti-inflammatories         38  12.4
+       * Opt 4: Don't know                                 44  14.4
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-4 = 0 points
+
+K5     Topical corticosteroids:                           Opt 1:   240  78.4
+       (Arabic text)                                      Safe when
+                                                          used correctly
+                                                          for limited periods
+       * Opt 1: Safe when used correctly for limited      240  78.4
+                periods
+       * Opt 2: Don't know                                 51  16.7
+       * Opt 3: Always harmful, should be avoided          12   3.9
+       * Opt 4: No side effects                             3   1.0
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-4 = 0 points
+
+K6     Propolis is:                                       Opt 1:   226  73.9
+       (Arabic text)                                      Natural 
+                                                          substance
+       * Opt 1: Natural substance                         226  73.9
+       * Opt 2: Don't know                                 66  21.6
+       * Opt 3: Synthetic chemical                         11   3.6
+       * Opt 4: Type of corticosteroid                      3   1.0
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-4 = 0 points
+
+K7     Propolis is traditionally used for:                Opt 1:   185  60.5
+       (Arabic text)                                      Skin 
+                                                          inflammation 
+                                                          and wounds
+       * Opt 1: Skin inflammation and wounds             185  60.5
+       * Opt 2: Don't know                                105  34.3
+       * Opt 3: Heart diseases only                         9   2.9
+       * Opt 4: Diabetes only                               7   2.3
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-4 = 0 points
+
+K8     Scabies is:                                        Opt 1:   258  84.3
+       (Arabic text)                                      Skin parasite
+                                                          causing severe 
+                                                          itching
+       * Opt 1: Skin parasite causing severe itching      258  84.3
+       * Opt 2: Bacterial infection                        22   7.2
+       * Opt 3: Type of eczema                              5   1.6
+       * Opt 4: Don't know                                 21   6.9
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-4 = 0 points
+
+K9     Symptoms of scabies include:                       Opt 1:   267  87.3
+       (Arabic text)                                      Severe 
+                                                          nocturnal itching 
+                                                          and skin burrows
+       * Opt 1: Severe nocturnal itching and skin burrows 267  87.3
+       * Opt 2: Scaling and dryness                         4   1.3
+       * Opt 3: Red spots only                             12   3.9
+       * Opt 4: Don't know                                 23   7.5
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-4 = 0 points
+
+K10    Can scabies and eczema be confused clinically?     Opt 1:   103  33.7
+       (Arabic text)                                      Yes, one may 
+                                                          be misdiagnosed 
+                                                          as the other
+       * Opt 1: Yes, one may be misdiagnosed as the other 103  33.7
+       * Opt 2: No, they are completely different         152  49.7
+       * Opt 3: Don't know                                 51  16.7
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-3 = 0 points
+
+K11    Self-treatment before medical diagnosis can lead   Opt 1:   248  81.0
+       to:                                                Delay in 
+       (Arabic text)                                       correct 
+                                                          treatment 
+                                                          and worsening
+       * Opt 1: Delay in correct treatment and worsening   248  81.0
+       * Opt 2: Accelerated healing                        20   6.5
+       * Opt 3: Don't know                                 34  11.1
+       * Opt 4: No effect                                   4   1.3
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-4 = 0 points
+
+K12    When should you visit a doctor for skin symptoms?  Opt 1:   262  85.6
+       (Arabic text)                                      Immediately 
+                                                          for correct 
+                                                          diagnosis
+       * Opt 1: Immediately for correct diagnosis        262  85.6
+       * Opt 2: After trying home remedies                 17   5.6
+       * Opt 3: Only when condition worsens                13   4.2
+       * Opt 4: Don't know                                 14   4.6
+       [CORRECT] Opt 1 = 1 point; [INCORRECT] Opt 2-4 = 0 points
+
+Note: Knowledge score range: 0-12. Percentage correct calculated as 
+(raw score / 12) x 100. Overall mean knowledge score: 8.88 +/- 2.54 
+(74.0% +/- 21.4%).
+
+--------------------------------------------------------------------------------
+SECTION C: ATTITUDE DOMAIN (A1-A12) - 5-POINT LIKERT SCALE
+--------------------------------------------------------------------------------
+
+Item   Question                                           Response Distribution
+                                                            (1)    (2)    (3)    (4)    (5)
+---------------------------------------------------------------------------------------------
+A1     I believe eczema is caused by lack of personal     59    163     36     26     22
+       hygiene                                            (19.3) (53.3) (11.8)  (8.5)  (7.2)
+       (Arabic text)
+
+A2     I believe eczema is a chronic disease requiring      2     20     47    150     87
+       long-term management                                (0.7)  (6.5) (15.4) (49.0) (28.4)
+       (Arabic text)
+
+A3     I believe topical corticosteroid use is beneficial   1     13     47    156     89
+       but requires caution                                (0.3)  (4.2) (15.4) (51.0) (29.1)
+       (Arabic text)
+
+A4     I am afraid of topical corticosteroid side effects     3     36    105    119     43
+                                                            (1.0) (11.8) (34.3) (38.9) (14.1)
+       (Arabic text)
+
+A5     I believe natural treatments (e.g., propolis) are        5     39     98     98     66
+       always safe without side effects                    (1.6) (12.7) (32.0) (32.0) (21.6)
+       (Arabic text)
+
+A6     I believe propolis can be an effective alternative       3     23    132    107     41
+       to corticosteroids in mild eczema                   (1.0)  (7.5) (43.1) (35.0) (13.4)
+       (Arabic text)
+
+A7     I would use a natural ointment with propolis extract     0     11     51    165     79
+       if studies prove its effectiveness                  (0.0)  (3.6) (16.7) (53.9) (25.8)
+       (Arabic text)
+
+A8     I believe pharmacist consultation is sufficient        23     77     69     87     50
+       without visiting a doctor for mild skin symptoms    (7.5) (25.2) (22.5) (28.4) (16.3)
+       (Arabic text)
+
+A9     I believe home treatment before medical diagnosis       35    124     87     42     18
+       is acceptable for skin symptoms                     (11.4) (40.5) (28.4) (13.7)  (5.9)
+       (Arabic text)
+
+A10    I believe skin parasites (e.g., scabies) can be      39    109    109     34     15
+       treated with corticosteroid creams                  (12.7) (35.6) (35.6) (11.1)  (4.9)
+       (Arabic text)
+
+A11    I believe self-diagnosis of skin conditions is          33    132     69     47     25
+       common and acceptable                               (10.8) (43.1) (22.5) (15.4)  (8.2)
+       (Arabic text)
+
+A12    I believe doctor/pharmacist advice is necessary          3     14     24    103    162
+       before using any topical treatment                  (1.0)  (4.6)  (7.8) (33.7) (52.9)
+       (Arabic text)
+
+Note: 5-point Likert scale: 1=Strongly disagree, 2=Disagree, 3=Neutral, 
+4=Agree, 5=Strongly agree. Percentages in parentheses. Items A4, A5, A8, 
+A9, A10, A11 are reverse-scored for composite attitude calculation.
+Attitude score range: 12-60. Overall mean attitude score: 32.94 +/- 10.56 
+(54.9% +/- 17.6% when scaled to 0-100).
+
+--------------------------------------------------------------------------------
+SECTION D: PRACTICE DOMAIN (P1-P12)
+--------------------------------------------------------------------------------
+
+Item   Question                                           Response Distribution
+                                                            Opt 1   Opt 2   Opt 3   Opt 4   Opt 5
+----------------------------------------------------------------------------------------------------
+P1     When new skin symptoms appear, what is your         140     66      80      12       8
+       first step?                                         (45.8)  (21.6)  (26.1)   (3.9)   (2.6)
+       (Arabic text)
+
+P2     Have you ever used topical corticosteroids for      21     61      11     185      28
+       eczema treatment?                                   (6.9)   (19.9)  (3.6)   (60.5)  (9.2)
+       (Arabic text)
+
+P3     If prescribed corticosteroids, how do you use         253     21      10       2      20
+       them?                                               (82.7)  (6.9)   (3.3)   (0.7)   (6.5)
+       (Arabic text)
+
+P4     Have you ever used natural treatments for eczema?     41     41     206      16       2
+                                                            (13.4)  (13.4)  (67.3)   (5.2)   (0.7)
+       (Arabic text)
+
+P5     If a natural ointment with propolis extract were      59    172      49       4      22
+       available, would you try it?                        (19.3)  (56.2)  (16.0)   (1.3)   (7.2)
+       (Arabic text)
+
+P6*    What encourages you to try a new natural treatment?   208    122     117      56     147
+       (Select all that apply)                             (68.0)  (39.9)  (38.2)  (18.3)  (48.0)
+       (Arabic text)
+
+P7     Have you ever experienced severe nocturnal itching    47    233      26       -       -
+       with skin burrows (resembling scabies)?             (15.4)  (76.1)   (8.5)
+       (Arabic text)
+
+P8     If you developed symptoms resembling scabies,       107     14      11     167       7
+       what did you do?                                  (35.0)   (4.6)   (3.6)  (54.6)   (2.3)
+       (Arabic text)
+
+P9     Have you ever used treatment for a skin condition       28    122      81      75       -
+       without prior medical diagnosis?                    (9.2)   (39.9)  (26.5)  (24.5)
+       (Arabic text)
+
+P10    How often do you visit a dermatologist annually?        149    124      22      11       -
+                                                            (48.7)  (40.5)   (7.2)   (3.6)
+       (Arabic text)
+
+P11    Do you have an allergy to bee products (honey,         13    255      38       -       -
+       wax, stings)?                                       (4.2)   (83.3)  (12.4)
+       (Arabic text)
+
+P12*   What is your primary source of health information?    199    152     121      62      73
+       (Select all that apply)                             (65.0)  (49.7)  (39.5)  (20.3)  (23.9)
+       (Arabic text)
+
+Note: *Multiple-choice items; percentages may exceed 100% as respondents 
+could select multiple options. Practice score range: 12-60. Overall mean 
+practice score: 36.66 +/- 8.82 (61.1% +/- 14.7% when scaled to 0-100).
+
+================================================================================
+TABLE S2: FULL KAP HEALTHCARE PROFESSIONAL SURVEY FREQUENCIES (n = 120)
+================================================================================
+
+SECTION A: DEMOGRAPHICS
+
+Code   Variable                           Category                          n      %
+-------------------------------------------------------------------------------------
+D1     Professional role                    Dermatologist                     52   43.3
+                                          Pharmacist                        43   35.8
+                                          Nurse                             25   20.8
+
+D2     Years of experience                  < 2 years                         18   15.0
+                                          2-5 years                         21   17.5
+                                          5-10 years                        39   32.5
+                                          > 10 years                        42   35.0
+
+D3     Primary workplace                    Hospital                          58   48.3
+                                          Community Pharmacy                25   20.8
+                                          Private Clinic                    19   15.8
+                                          Hospital Pharmacy                 18   15.0
+
+D4     TCS Training                         Yes                               67   55.8
+                                          No                                53   44.2
+
+-------------------------------------------------------------------------------------
+SECTION B: KNOWLEDGE DOMAIN (K1–K12) — DICHOTOMOUS SCORING (0–1)
+-------------------------------------------------------------------------------------
+
+Code   Item                                           Correct Answer     n (%) Correct
+---------------------------------------------------------------------------------------------
+K1     First-line treatment for mild-to-moderate AD   Emollients         120  100.0
+K2     Importance of emollients                       Score 4-5          120  100.0
+K3     Most common barrier to treatment               Poor adherence     120  100.0
+K4     Knowledge level of propolis                    Moderate/Good      120  100.0
+K5     Evaluation of beeswax                          Effective/Very     120  100.0
+                                                         effective
+K6     'Propolis-beeswax synergy' hypothesis          Combined barrier   120  100.0
+                                                          + anti-
+                                                          inflammatory
+K7     TCS misuse driven by local factors             OTC availability   90    75.0
+                                                          + lack of 
+                                                          awareness
+K8     Evidence level for propolis in AD              Limited/           100   83.3
+                                                          exploratory
+K9     Role of pharmacist in TCS counseling           Education +        90    75.0
+                                                          monitoring
+K10    Patient education on TCS risks                 Essential          104   86.7
+K11    Step-down protocol for TCS                     Gradual tapering   90    75.0
+K12    Recognition of steroid-induced skin atrophy    Early signs        94    78.3
+
+Note: Knowledge score range: 0–12. K1–K6 are direct multiple-choice items; 
+K7–K12 are composite scenario-based items. Overall mean knowledge 
+score (full scale): 10.73 ± 1.66 (89.4% ± 13.8%).
+Discriminating-item score (K7–K12 only): 78.9% ± 27.7%.
+
+-------------------------------------------------------------------------------------
+SECTION C: ATTITUDE DOMAIN (A1–A12) — 5-POINT LIKERT SCALE
+-------------------------------------------------------------------------------------
+
+Item   Question                                           Response Distribution
+                                                            (1)      (2)      (3)      (4)      (5)
+-------------------------------------------------------------------------------------------------------------
+A1     Topical corticosteroids are safe when used         11       34       24       26       25
+       correctly                                          (9.2)    (28.3)   (20.0)   (21.7)   (20.8)
+
+A2     Topical corticosteroids are always dangerous       39       22       26       23       10
+       and should be avoided [REVERSE]                    (32.5)   (18.3)   (21.7)   (19.2)   (8.3)
+
+A3     Emollients are the cornerstone of AD treatment     11       29       22       22       36
+                                                            (9.2)    (24.2)   (18.3)   (18.3)   (30.0)
+
+A4     Fear of prescribing TCS to children [REVERSE]      120      0        0        0        0
+                                                            (100.0)  (0.0)    (0.0)    (0.0)    (0.0)
+
+A5     Preventive treatment is effective in preventing    12       35       24       20       29
+       relapse                                            (10.0)   (29.2)   (20.0)   (16.7)   (24.2)
+
+A6     Patients should stop immediately when symptoms     120      0        0        0        0
+       improve [REVERSE]                                  (100.0)  (0.0)    (0.0)    (0.0)    (0.0)
+
+A7     Patient education is essential                     13       20       32       27       28
+                                                            (10.8)   (16.7)   (26.7)   (22.5)   (23.3)
+
+A8     Corticosteroids cause addiction [REVERSE]          120      0        0        0        0
+                                                            (100.0)  (0.0)    (0.0)    (0.0)    (0.0)
+
+A9     Fingertip unit is useful for patient guidance      13       27       24       25       31
+                                                            (10.8)   (22.5)   (20.0)   (20.8)   (25.8)
+
+A10    Should never be used on the face [REVERSE]         120      0        0        0        0
+                                                            (100.0)  (0.0)    (0.0)    (0.0)    (0.0)
+
+A11    Regular follow-up is important                     12       26       29       18       35
+                                                            (10.0)   (21.7)   (24.2)   (15.0)   (29.2)
+
+A12    Should be purchased without prescription           27       20       40       20       13
+       [REVERSE]                                          (22.5)   (16.7)   (33.3)   (16.7)   (10.8)
+
+Note: 5-point Likert scale: 1=Strongly disagree, 2=Disagree, 3=Neutral, 
+4=Agree, 5=Strongly agree. Items marked [REVERSE] are reverse-scored for 
+composite attitude calculation. A4, A6, A8, A10 showed zero variance 
+(all respondents selected 1=Strongly disagree, reversed to 5).
+Attitude score range: 12–60. Overall mean attitude score (full scale): 
+32.94 ± 10.56 (57.2% ± 21.0% when scaled to 0–100).
+Discriminating-item score (excluding A4, A6, A8, A10): 57.2% ± 21.0%. Note: 'Discriminating items' and 'variable items' refer to the same subset—items exhibiting non-zero variance across the sample.
+
+-------------------------------------------------------------------------------------
+SECTION D: KNOWLEDGE-PRACTICE GAP BY PROFESSION
+-------------------------------------------------------------------------------------
+
+Profession          n    Knowledge (%)      Practice (%)       K-P Gap
+                         Mean ± SD          Mean ± SD          (points)
+-------------------------------------------------------------------------------------
+Dermatologists      52   98.9 ± 2.9         71.8 ± 14.3        27.1
+                         (97.8 ± 5.7)*      (51.7 ± 24.5)*     (46.1)*
+Pharmacists         43   86.4 ± 10.9        65.4 ± 12.0        21.0
+                         (72.9 ± 21.8)*     (40.7 ± 20.6)*     (32.2)*
+Nurses              25   75.0 ± 17.2        60.0 ± 9.7         15.0
+                         (50.0 ± 34.4)*     (31.4 ± 16.6)*     (18.6)*
+Overall            120   89.4 ± 13.8        67.1 ± 13.4        22.4
+                         (78.9 ± 27.7)*     (43.5 ± 22.9)*     (35.4)*
+
+Kruskal-Wallis (full-scale): Knowledge H = 63.6, p < 0.001; 
+                Practice H = 14.8, p = 0.001; 
+                K-P Gap H = 20.0, p < 0.001
+Kruskal-Wallis (discriminating-item): Knowledge H = 63.6, p < 0.001;
+                Practice H = 14.8, p < 0.001;
+                K-P Gap H = 28.5, p < 0.001
+
+*Discriminating-item scores exclude zero-variance ceiling-effect items
+(Knowledge: K1–K6; Practice: P2, P4, P6, P8, P10).
+
+-------------------------------------------------------------------------------------
+SECTION E: PRACTICE DOMAIN FREQUENCIES (n = 120)
+-------------------------------------------------------------------------------------
+
+Item   Practice Item                                Response Categories        n      %
+--------------------------------------------------------------------------------------------------
+P1     Topical Corticosteroid as First-line         1=Never / 2=Rarely /       20/36/   16.7/
+                                                      3=Sometimes / 4=Often /    26/18/   30.0/
+                                                      5=Always                   20       21.7/
+                                                                                           15.0/
+                                                                                           16.7
+
+P2     Routine Use of Emollients                    5=Always                   120      100.0
+
+P3     Specialist Referral for Complex Cases        1=Never / 2=Rarely /       22/40/   18.3/
+                                                      3=Sometimes / 4=Often /    29/16/   33.3/
+                                                      5=Always                   13       24.2/
+                                                                                           13.3/
+                                                                                           10.8
+
+P4     Recommending Natural Products                5=Always                   120      100.0
+
+P5     Patient Education on Steroid Risks           1=Never / 2=Rarely /       29/39/   24.2/
+                                                      3=Sometimes / 4=Often /    24/11/   32.5/
+                                                      5=Always                   17       20.0/
+                                                                                           9.2/
+                                                                                           14.2
+
+P6     Assessing Treatment Adherence Gaps           5=Always                   120      100.0
+
+P7     Dermatological Assessment Before Rx          1=Never / 2=Rarely /       28/33/   23.3/
+                                                      3=Sometimes / 4=Often /    25/17/   27.5/
+                                                      5=Always                   17       20.8/
+                                                                                           14.2/
+                                                                                           14.2
+
+P8     Management of Secondary Infections           5=Always                   120      100.0
+
+P9     Follow-up Timing                             1=Never / 2=Rarely /       25/33/   20.8/
+                                                      3=Sometimes / 4=Often /    32/17/   27.5/
+                                                      5=Always                   13       26.7/
+                                                                                           14.2/
+                                                                                           10.8
+
+P10    Confidence in Natural Adjuvants              5=Always                   120      100.0
+
+P11    Recommending Therapeutic Emollients          1=Never / 2=Rarely /       26/28/   21.7/
+                                                      3=Sometimes / 4=Often /    29/18/   23.3/
+                                                      5=Always                   19       24.2/
+                                                                                           15.0/
+                                                                                           15.8
+
+P12    Addressing Steroid Phobia                    1=Never / 2=Rarely /       20/31/   16.7/
+                                                      3=Sometimes / 4=Often /    24/23/   25.8/
+                                                      5=Always                   22       20.0/
+                                                                                           19.2/
+                                                                                           18.3
+
+Note: Practice Score (Full-Scale Mean ± SD) = 67.05% ± 13.42%.
+Practice Score (Discriminating-Item Mean ± SD) = 43.5% ± 22.9%.
+Scores derived from standardized weights across 12 domains.
+Items P2, P4, P6, P8, P10 showed zero variance (all respondents selected 5=Always).
+
+================================================================================
+TABLE S3: CRONBACH'S ALPHA DETAILED BREAKDOWN
+================================================================================
+
+A. PUBLIC SURVEY (n = 306)
+---------------------------------------------------------------------------------------------
+Domain        Full alpha    Variable alpha*    Nunnally        Ceiling
+              (All Items)   (Excluding         Classification  Effect
+                            Zero-Variance      (Variable       (% of
+                            Items)             Items)          Items)
+---------------------------------------------------------------------------------------------
+Knowledge     0.709         —                  Acceptable      0%
+                                                          (no ceiling)
+
+Attitude      0.709         —                  Acceptable      0%
+                                                          (no ceiling)
+
+Practice      Not reported  —                  —               —
+
+B. HEALTHCARE PROFESSIONAL SURVEY (n = 120)
+---------------------------------------------------------------------------------------------
+Domain        Full alpha    Variable alpha*    Nunnally        Ceiling
+              (All Items)   (Excluding         Classification  Effect
+                            Zero-Variance      (Variable       (% of
+                            Items)             Items)          Items)
+---------------------------------------------------------------------------------------------
+Knowledge     0.696         0.766 (6 items)    Acceptable      50%
+                                                            (K1–K6)
+
+Attitude      0.750         0.786 (8 items)    Acceptable      33%
+                                                            (A4, A6,
+                                                             A8, A10)
+
+Practice      0.767         0.820 (7 items)    Good            42%
+                                                            (P2, P4,
+                                                             P6, P8,
+                                                             P10)
+
+Note: Alpha classifications follow Nunnally & Bernstein (1994) thresholds: 
+Excellent (≥0.90), Good (0.80–0.89), Acceptable (0.70–0.79), 
+Questionable (0.60–0.69). *Variable alpha calculated after excluding 
+zero-variance (ceiling-effect) items. The substantial improvement in
+alpha values after excluding zero-variance items (Knowledge: 0.696→0.766;
+Attitude: 0.750→0.786; Practice: 0.767→0.820) confirms that the
+attenuation in full-scale reliability was driven by item-level ceiling
+effects rather than population homogeneity.
+
+================================================================================
+TABLE S4: SUMMARY OF ITEM-LEVEL VARIANCE ANALYSIS (n = 120)
+================================================================================
+
+Domain     Zero-Variance   Variable    Item-Total r    Ceiling
+           Items (%)       Items (%)   Range           Nature
+---------------------------------------------------------------------------------------------
+Knowledge  6 (50%)         6 (50%)     0.482–0.554     All 100%
+                                                       correct
+                                                       (K1–K6)
+
+Attitude   4 (33%)         8 (67%)     0.435–0.569     All "Strongly
+           (A4, A6,                    (variable       disagree" (1)
+           A8, A10)                    items only)     reversed→5
+
+Practice   5 (42%)         7 (58%)     0.495–0.624     All "Always" (5)
+           (P2, P4,                    (variable
+           P6, P8,                     items only)
+           P10)
+
+Total      15 (42%)        21 (58%)    All p < 0.001   —
+
+Note: Zero-variance items showed 100% correct responses (Knowledge),
+100% "strongly disagree" with negative statements (Attitude, reversed),
+or 100% "Always" (Practice), indicating severe ceiling effects.
+Item-total correlations for all variable items were significant
+(r = 0.44–0.62, all p < 0.001). The high proportion of zero-variance
+items (41.7%) suggests the instrument measured minimum competency
+thresholds rather than professional differentiation.
+
+================================================================================
+TABLE S5: ASSOCIATION BETWEEN PRIOR FORMAL TCS TRAINING AND KAP DOMAIN 
+SCORES AMONG HEALTHCARE PROFESSIONALS (n = 120)
+================================================================================
+
+Domain          Trained (n = 67)    Untrained (n = 53)   Effect Size   p-value
+                Mean ± SD           Mean ± SD            (r)*
+---------------------------------------------------------------------------------------------
+Knowledge       96.1% ± 6.9         81.0% ± 15.7         0.623        < 0.001
+Attitude        80.3% ± 9.0         60.2% ± 10.8         0.868        < 0.001
+Practice        76.1% ± 10.3        55.6% ± 5.9          0.950        < 0.001
+
+Note: Effect sizes (r) represent Mann-Whitney U rank-biserial correlations. 
+The very large r for Practice (0.950) reflects near-deterministic separation
+likely influenced by quasi-complete separation and should be interpreted
+cautiously as exploratory and hypothesis-generating given the observational 
+design and limited sample size. Effect estimates may be inflated
+because of sparse-cell distributions and quasi-complete separation, where
+near-deterministic separation between trained and untrained groups produces
+artificially large effect sizes that do not generalize to broader populations.
+Causal inference requires prospective intervention studies with larger, 
+representative samples.
+*Rank-biserial correlation (r) is equivalent to Cliff's Delta in 
+two-group comparisons.
+
+================================================================================
+TABLE S6: DISTRIBUTION OF KAP LEVELS (n = 120)
+================================================================================
+
+A. FULL-SCALE SCORING (All Items)
+---------------------------------------------------------------------------------------------
+Domain          High/Positive/Good   Moderate/Neutral/    Low/Negative/
+                (≥80%)               Moderate (60–79%)    Low (<60%)
+---------------------------------------------------------------------------------------------
+Knowledge       96 (80.0%)           16 (13.3%)           8 (6.7%)
+Attitude        19 (15.8%) Positive  78 (65.0%) Neutral   23 (19.2%) Negative
+Practice        16 (13.3%) Good      67 (55.8%) Moderate  37 (30.8%) Poor
+
+B. DISCRIMINATING-ITEM SCORING (Excluding Zero-Variance Items)*
+---------------------------------------------------------------------------------------------
+Domain          High/Positive/Good   Moderate/Neutral/    Low/Negative/
+                (≥80%)               Moderate (60–79%)    Low (<60%)
+---------------------------------------------------------------------------------------------
+Knowledge       83 (69.2%)           13 (10.8%)           24 (20.0%)
+Attitude        15 (12.5%) Positive  60 (50.0%) Neutral   45 (37.5%) Negative
+Practice        8 (6.7%) Good        19 (15.8%) Moderate  93 (77.5%) Poor
+
+*Discriminating-item scoring excludes zero-variance items (Knowledge: K1–K6;
+Attitude: A4, A6, A8, A10; Practice: P2, P4, P6, P8, P10) to better
+reflect true expertise gradients. The dramatic shift in Practice
+(77.5% Poor with discriminating-item scoring vs. 30.8% Poor with full scoring)
+demonstrates how ceiling effects on "Always" responses artificially
+inflated apparent practice quality.
+
+================================================================================
+TABLE S7: TCS TRAINING AS PREDICTOR OF ADEQUATE PRACTICE — LOGISTIC REGRESSION (n = 120)
+================================================================================
+
+Analysis Method              OR       95% CI              p-value
+---------------------------------------------------------------------------------------------
+Logistic regression          24.35    8.42–70.31          < 0.001
+
+Note: Logistic regression odds ratio. The Fisher exact odds ratio (139.76)
+is presented separately in Table S9. Both estimates should be interpreted
+as exploratory and hypothesis-generating only because sparse cell counts 
+and quasi-complete separation may inflate effect size estimates and widen 
+confidence intervals. These large magnitudes likely reflect the strong 
+association between training and practice within this specific sample 
+rather than a generalizable population effect. Causal inference requires 
+prospective intervention studies with larger, representative samples.
+
+================================================================================
+TABLE S8: CORRELATION ANALYSIS BETWEEN KAP DOMAINS (n = 120)
+================================================================================
+
+Variable Pair                      Pearson r   Spearman ρ   p-value   Significance
+------------------------------------------------------------------------------------------------
+Knowledge Score vs. Practice Score   0.617      +0.680      < 0.001      ***
+Knowledge Score vs. Attitude Score   0.511      +0.520      < 0.001      ***
+Attitude Score vs. Practice Score    0.902      +0.943      < 0.001      ***
+K vs K-P Gap                         0.511      +0.372      < 0.001      ***
+P vs K-P Gap                        -0.511      -0.300      < 0.001      ***
+
+*** p < 0.001
+
+Interpretation: The exceptionally strong Attitude–Practice correlation (Spearman ρ = +0.943) should be interpreted cautiously because both domains were derived from the same instrument and assessed concurrently, raising the possibility of common method bias, construct overlap, and mathematical coupling. While the partial correlation controlling for TCS training (ρ = 0.720, p < 0.001) supports a genuine educational gradient, the near-perfect zero-order correlation likely reflects mathematical coupling amplified by ceiling effects and the binary training variable. This pattern is hypothesis-generating only and should not be interpreted as evidence of discriminant validity between domains.
+SENSITIVITY ANALYSIS: PARTIAL SPEARMAN CORRELATION CONTROLLING FOR TCS TRAINING
+---------------------------------------------------------------------------------------------
+
+To assess whether the exceptionally strong A–P correlation (ρ = +0.943) reflects 
+a genuine educational gradient or a statistical artifact, we computed the partial 
+Spearman correlation between Attitude and Practice scores after controlling for 
+TCS training status (trained vs. untrained).
+
+Variable Pair                      Partial ρ   p-value   Interpretation
+------------------------------------------------------------------------------------------------
+Attitude Score vs. Practice Score    0.720      < 0.001   Substantial correlation persists
+                                                                    after controlling for
+                                                                    training status
+
+The partial correlation of ρ = 0.72 (p < 0.001) confirms that the A–P association 
+is not solely attributable to the shared influence of TCS training. Rather, the 
+near-perfect zero-order correlation (ρ = 0.943) reflects a strong genuine 
+relationship that is amplified by the educational gradient. This sensitivity 
+analysis supports the interpretation that attitude and practice are genuinely 
+coupled among HCPs, with training status acting as a potentiating factor rather 
+than the sole determinant of the observed association.
+
+Correlations in this table are based on full-scale scores; discriminating-item 
+correlations are reported in the main text (Section 4.2).
+
+================================================================================
+TABLE S9: FISHER EXACT TEST — PREDICTORS OF ADEQUATE PRACTICE (n = 120)
+================================================================================
+
+NOTE: Perfect separation detected — trained HCPs show 98.5% adequate practice 
+vs 32.1% among untrained. Fisher's exact test is the preferred method given
+quasi-complete separation.
+
+Crosstabulation: TCS Training x Adequate Practice (Practice ≥ 60%)
+
+                        Inadequate (< 60%)   Adequate (≥ 60%)   Total
+--------------------------------------------------------------------------------
+Trained (n = 67)        1 (1.5%)             66 (98.5%)         67 (100%)
+Untrained (n = 53)      36 (67.9%)           17 (32.1%)         53 (100%)
+
+Fisher's Exact Test:
+    Odds Ratio = 139.76
+    95% CI: [18.42 – 1061.23]
+    p < 0.001
+
+Model Fit: chi-square = 89.47, df = 1, p < 0.001; 
+Nagelkerke R-squared approx 0.742 (very large effect)
+
+Interpretation: TCS training was strongly associated with adequate practice, 
+with an odds ratio of approximately 140-fold compared to no training. This 
+represents a very large effect size. However, this estimate should be 
+interpreted as exploratory and hypothesis-generating only, due to quasi-complete 
+separation, the cross-sectional design, limited sample size, and sparse-cell 
+distributions. These large magnitudes likely reflect the strong association 
+between training and practice within this specific sample rather than a 
+generalizable population effect. Causal inference requires prospective 
+intervention studies with larger, representative samples.
+
+================================================================================
+TABLE S10: DETAILED EXPLORATORY MODIFIED LOCAL SCORAD† DATA BY PARTICIPANT AND VISIT (n = 30)
+================================================================================
+
+Formula: Exploratory Modified Local SCORAD†† = A/5 + 7B/2 + C/2
+Where: A = extent restricted to target lesion area (0–6), 
+       B = intensity sum (0–12), 
+       C = subjective symptoms (0–20)
+
+Adapted for localized xerotic lesions by restricting extent scoring to the 
+target lesion area (10 × 10 cm flexor forearm). This represents an exploratory 
+adaptation of the conventional SCORAD instrument for use in non-AD 
+atopic-prone xerotic skin.
+
+ID     Group      Sex      Age   Baseline    Week 2      Week 4      Absolute   Percent
+                            (yr)  (Day 0)               (Day 28)    Change     Change
+                                                              (Delta)        (%)
+------------------------------------------------------------------------------------------------
+P01    EEP 3%     Female   29    28          14          7           -21        -75.0
+P02    EEP 3%     Male     45    19          9           3           -16        -84.2
+P03    EEP 3%     Female   34    31          15          8           -23        -74.2
+P04    EEP 3%     Female   52    27          11          6           -21        -77.8
+P05    EEP 3%     Male     41    22          10          5           -17        -77.3
+P06    EEP 3%     Female   27    29          13          7           -22        -75.9
+P07    EEP 3%     Female   38    20          8           4           -16        -80.0
+P08    EEP 3%     Male     48    26          12          6           -20        -76.9
+P09    EEP 3%     Female   31    21          9           4           -17        -81.0
+P10    EEP 3%     Female   44    30          16          8           -22        -73.3
+
+P11    Crude 5%   Female   35    29          16          9           -20        -69.0
+P12    Crude 5%   Male     50    18          10          5           -13        -72.2
+P13    Crude 5%   Female   26    30          14          8           -22        -73.3
+P14    Crude 5%   Female   39    28          15          9           -19        -67.9
+P15    Crude 5%   Male     46    23          11          6           -17        -73.9
+P16    Crude 5%   Female   33    27          13          8           -19        -70.4
+P17    Crude 5%   Male     28    19          9           5           -14        -73.7
+P18    Crude 5%   Female   55    32          17          10          -22        -68.8
+P19    Crude 5%   Female   42    26          12          7           -19        -73.1
+P20    Crude 5%   Male     37    24          11          6           -18        -75.0
+
+P21    Vehicle    Female   24    27          24          19          -8         -29.6
+P22    Vehicle    Female   49    21          18          16          -5         -23.8
+P23    Vehicle    Male     32    28          23          18          -10        -35.7
+P24    Vehicle    Female   41    30          25          20          -10        -33.3
+P25    Vehicle    Female   57    22          19          15          -7         -31.8
+P26    Vehicle    Male     36    29          26          21          -8         -27.6
+P27    Vehicle    Female   29    19          17          14          -5         -26.3
+P28    Vehicle    Female   51    31          27          22          -9         -29.0
+P29    Vehicle    Male     43    26          22          18          -8         -30.8
+P30    Vehicle    Female   22    20          18          15          -5         -25.0
+
+SUMMARY STATISTICS:
+------------------------------------------------------------------------------------------------
+Group          n    Baseline      Week 4        Median Delta    Mean Delta ± SD
+                    Mean ± SD     Mean ± SD
+------------------------------------------------------------------------------------------------
+EEP 3%         10   25.3 ± 4.4    5.8 ± 1.8     -20.50      -19.50 ± 2.72
+Crude 5%       10   25.6 ± 4.6    7.3 ± 1.8     -19.00      -18.30 ± 2.98
+Vehicle        10   25.3 ± 4.4    17.8 ± 2.7    -8.00       -7.50 ± 1.96
+
+Note: SCORAD† was incorporated as a predefined exploratory secondary endpoint 
+within SAP Version 2.0, finalized before database lock and prior to treatment 
+unblinding. As an exploratory endpoint, findings should be interpreted as 
+hypothesis-generating supportive evidence rather than confirmatory efficacy 
+data. The modified local SCORAD† formula was adapted for localized xerotic 
+lesions by restricting extent scoring to the target lesion area (10 × 10 cm 
+flexor forearm), consistent with the exploratory adaptation described in 
+the main manuscript (Section 2.8).
+
+================================================================================
+TABLE S11: POST-HOC POWER ANALYSIS AND SAMPLE SIZE PROJECTIONS
+================================================================================
+
+SECTION A: ACHIEVED POWER (Post-hoc, n = 10 per group)
+
+Outcome Measure              Effect Size (|d|)    Power    Power Level
+--------------------------------------------------------------------------------
+Clinical Dryness Score       0.93                 0.757    Moderate
+Local SCORAD†                1.00                 0.814    Very Good
+Pruritus VAS                 1.00                 0.814    Very Good
+Skin Comfort                 1.00                 0.814    Very Good
+Subject Satisfaction         1.00                 0.814    Very Good
+
+SECTION B: PROJECTED SAMPLE SIZES (per group)
+
+Effect Size (|d|)    Power 80%    Power 90%    Total N (80%)    Total N (90%)
+----------------------------------------------------------------------------------------
+0.4                  82           110          246              330
+0.5                  53           71           159              213
+0.6                  37           49           111              147
+0.7                  27           36           81               108
+0.8                  21           28           63               84
+0.9                  17           22           51               66
+
+Recommendation: n = 71 per group (213 total) for 90% power at |d| = 0.50
+
+Note: Sample sizes calculated using Noether's formula (1987) for two-sided 
+Mann-Whitney U test (Wilcoxon rank-sum), alpha = 0.05, with 20% dropout 
+adjustment. Total N = per-group n × 3 groups. Based on conservative 
+d = 0.50 rather than observed pilot effect sizes, consistent with the 
+main manuscript (Section 3.4).
+
+================================================================================
+TABLE S12: COMPLETE STATISTICAL OUTPUT — NORMALITY TESTS (SHAPIRO-WILK)
+================================================================================
+
+Variable                          Group       n    W-statistic    p-value    Normal?
+---------------------------------------------------------------------------------------------
+Age (years)                       EEP 3%      10   0.9779         0.9527     Yes
+Age (years)                       Crude 5%    10   0.9756         0.9372     Yes
+Age (years)                       Vehicle     10   0.9639         0.8294     Yes
+
+Dryness Score (Baseline)          EEP 3%      10   0.6405         0.0002     No
+Dryness Score (Baseline)          Crude 5%    10   0.6405         0.0002     No
+Dryness Score (Baseline)          Vehicle     10   0.6405         0.0002     No
+
+Dryness Score (Week 2)            EEP 3%      10   0.6405         0.0002     No
+Dryness Score (Week 2)            Crude 5%    10   0.6405         0.0002     No
+Dryness Score (Week 2)            Vehicle     10   0.5942         <0.0001    No
+
+Dryness Score (Week 4)            EEP 3%      10   0.5093         <0.0001    No
+Dryness Score (Week 4)            Crude 5%    10   0.5093         <0.0001    No
+Dryness Score (Week 4)            Vehicle     10   0.3657         <0.0001    No
+
+Local SCORAD† (Baseline)          EEP 3%      10   0.9105         0.3192     Yes
+Local SCORAD† (Baseline)          Crude 5%    10   0.9527         0.7001     Yes
+Local SCORAD† (Baseline)          Vehicle     10   0.9110         0.2878     Yes
+
+Local SCORAD† (Week 2)            EEP 3%      10   0.9376         0.5565     Yes
+Local SCORAD† (Week 2)            Crude 5%    10   0.9638         0.8285     Yes
+Local SCORAD† (Week 2)            Vehicle     10   0.9160         0.3246     Yes
+
+Local SCORAD† (Week 4)            EEP 3%      10   0.9348         0.5286     Yes
+Local SCORAD† (Week 4)            Crude 5%    10   0.9304         0.4519     Yes
+Local SCORAD† (Week 4)            Vehicle     10   0.9476         0.6403     Yes
+
+Pruritus VAS (Baseline)           EEP 3%      10   0.8994         0.2485     Yes
+Pruritus VAS (Baseline)           Crude 5%    10   0.9066         0.2582     Yes
+Pruritus VAS (Baseline)           Vehicle     10   0.9066         0.2582     Yes
+
+Pruritus VAS (Week 2)             EEP 3%      10   0.8325         0.0359     No
+Pruritus VAS (Week 2)             Crude 5%    10   0.8325         0.0359     No
+Pruritus VAS (Week 2)             Vehicle     10   0.9044         0.2449     Yes
+
+Pruritus VAS (Week 4)             EEP 3%      10   0.7941         0.0123     No
+Pruritus VAS (Week 4)             Crude 5%    10   0.7941         0.0123     No
+Pruritus VAS (Week 4)             Vehicle     10   0.8325         0.0359     No
+
+Skin Comfort (Baseline)           EEP 3%      10   0.5942         <0.0001    No
+Skin Comfort (Baseline)           Crude 5%    10   0.5942         <0.0001    No
+Skin Comfort (Baseline)           Vehicle     10   0.5942         <0.0001    No
+
+Skin Comfort (Week 2)             EEP 3%      10   0.6405         0.0002     No
+Skin Comfort (Week 2)             Crude 5%    10   0.6405         0.0002     No
+Skin Comfort (Week 2)             Vehicle     10   0.5942         0.0002     No
+
+Skin Comfort (Week 4)             EEP 3%      10   0.5093         <0.0001    No
+Skin Comfort (Week 4)             Crude 5%    10   0.5093         <0.0001    No
+Skin Comfort (Week 4)             Vehicle     10   0.3657         <0.0001    No
+
+Subject Satisfaction (Week 4)     EEP 3%      10   0.5093         <0.0001    No
+Subject Satisfaction (Week 4)     Crude 5%    10   0.5093         <0.0001    No
+Subject Satisfaction (Week 4)     Vehicle     10   0.5942         <0.0001    No
+
+Note: Normality violations for ordinal clinical outcomes (Dryness Score, 
+Skin Comfort, Subject Satisfaction) justify the prespecified non-parametric 
+approach. Pruritus VAS showed mixed normality results across timepoints.
+† indicates exploratory endpoint (see Section 2.8 of main manuscript).
+
+================================================================================
+TABLE S13: COMPLETE STATISTICAL OUTPUT — KRUSKAL-WALLIS TESTS
+================================================================================
+
+Variable                    n_A   n_B   n_C   H-statistic   df    p-value      Significant?
+---------------------------------------------------------------------------------------------
+Age (years)                 10    10    10    0.1459        2     0.9296       No
+Dryness Score (Baseline)    10    10    10    0.0488        2     0.9759       No
+Dryness Score (Week 2)      10    10    10    11.7392       2     0.0028       Yes
+Dryness Score (Week 4)      10    10    10    20.3400       2     <0.0001      Yes
+
+Local SCORAD† (Baseline)    10    10    10    0.0420        2     0.9792       No
+Local SCORAD† (Week 2)      10    10    10    19.4218       2     <0.0001      Yes
+Local SCORAD† (Week 4)      10    10    10    20.4924       2     <0.0001      Yes
+
+Pruritus VAS (Baseline)     10    10    10    0.0214        2     0.9893       No
+Pruritus VAS (Week 2)       10    10    10    14.1217       2     0.0009       Yes
+Pruritus VAS (Week 4)       10    10    10    20.2073       2     <0.0001      Yes
+
+Skin Comfort (Baseline)     10    10    10    0.0311        2     0.9846       No
+Skin Comfort (Week 2)       10    10    10    15.1556       2     0.0005       Yes
+Skin Comfort (Week 4)       10    10    10    22.1888       2     <0.0001      Yes
+
+Subject Satisfaction (Wk 4) 10    10    10    21.8191       2     <0.0001      Yes
+
+Note: Kruskal-Wallis test used for between-group comparisons at each 
+timepoint. Significant results (p < 0.05) followed by Mann-Whitney U 
+post-hoc tests with Bonferroni adjustment (alpha = 0.017 per comparison).
+† indicates exploratory endpoint (see Section 2.8 of main manuscript).
+
+================================================================================
+TABLE S14: COMPLETE STATISTICAL OUTPUT — MANN-WHITNEY U PAIRWISE COMPARISONS
+================================================================================
+
+Note: Bonferroni-adjusted for 3 pairwise comparisons per outcome family. 
+Adjusted alpha = 0.017 per comparison (family-wise alpha = 0.05).
+
+Variable                    Comparison          n1 vs n2   U-statistic   Raw p    Adj p     Significant?
+---------------------------------------------------------------------------------------------------------------
+Dryness Score (Week 4)      EEP vs Vehicle      10 vs 10   3.5           0.0002   0.0007    Yes
+Dryness Score (Week 4)      Crude vs Vehicle    10 vs 10   4.0           0.0001   0.0004    Yes
+Dryness Score (Week 4)      EEP vs Crude        10 vs 10   45.0          0.5565   1.0000    No
+
+Local SCORAD† (Week 4)      EEP vs Vehicle      10 vs 10   2.0           0.0003   0.0008    Yes
+Local SCORAD† (Week 4)      Crude vs Vehicle    10 vs 10   3.0           0.0002   0.0005    Yes
+Local SCORAD† (Week 4)      EEP vs Crude        10 vs 10   46.0          0.6843   1.0000    No
+
+Pruritus VAS (Week 4)       EEP vs Vehicle      10 vs 10   2.5           0.0002   0.0006    Yes
+Pruritus VAS (Week 4)       Crude vs Vehicle    10 vs 10   3.5           0.0002   0.0006    Yes
+Pruritus VAS (Week 4)       EEP vs Crude        10 vs 10   44.5          0.6122   1.0000    No
+
+Skin Comfort (Week 4)       EEP vs Vehicle      10 vs 10   97.0          0.0001   0.0003    Yes
+Skin Comfort (Week 4)       Crude vs Vehicle    10 vs 10   95.0          0.0000   0.0001    Yes
+Skin Comfort (Week 4)       EEP vs Crude        10 vs 10   60.0          0.7235   1.0000    No
+
+Subject Satisfaction (Wk 4) EEP vs Vehicle      10 vs 10   100.0         0.0002   0.0005    Yes
+Subject Satisfaction (Wk 4) Crude vs Vehicle    10 vs 10   100.0         0.0001   0.0002    Yes
+Subject Satisfaction (Wk 4) EEP vs Crude        10 vs 10   60.0          0.7235   1.0000    No
+
+† indicates exploratory endpoint (see Section 2.8 of main manuscript).
+
+================================================================================
+TABLE S15: COMPLETE STATISTICAL OUTPUT — WILCOXON SIGNED-RANK TESTS
+================================================================================
+
+Note: Bonferroni-adjusted for 5 outcomes per group (alpha = 0.01 per test).
+Within-group: Baseline vs Week 4.
+
+Variable          Group       n    Median Delta   W-statistic   Raw p    Adj p     Significant?
+-------------------------------------------------------------------------------------------------
+Dryness           EEP 3%      10   -2.0           0.0           0.0020   0.0098    Yes
+Dryness           Crude 5%    10   -2.0           0.0           0.0020   0.0098    Yes
+Dryness           Vehicle     10   -1.0           0.0           0.0139   0.0695    No
+
+Local SCORAD†     EEP 3%      10   -20.0          0.0           0.0020   0.0098    Yes
+Local SCORAD†     Crude 5%    10   -18.0          0.0           0.0020   0.0098    Yes
+Local SCORAD†     Vehicle     10   -7.0           0.0           0.0020   0.0098    Yes
+
+Pruritus VAS      EEP 3%      10   -4.0           0.0           0.0020   0.0098    Yes
+Pruritus VAS      Crude 5%    10   -4.0           0.0           0.0020   0.0098    Yes
+Pruritus VAS      Vehicle     10   -2.0           0.0           0.0020   0.0098    Yes
+
+Skin Comfort      EEP 3%      10   3.0            0.0           0.0020   0.0098    Yes
+Skin Comfort      Crude 5%    10   2.5            0.0           0.0020   0.0098    Yes
+Skin Comfort      Vehicle     10   1.0            0.0           0.0139   0.0695    No
+
+† indicates exploratory endpoint (see Section 2.8 of main manuscript).
+
+================================================================================
+TABLE S16: COMPLETE STATISTICAL OUTPUT — FRIEDMAN TESTS
+================================================================================
+
+Note: Within-group repeated measures across all visits (Baseline, Week 2, Week 4).
+
+Variable          Group       n    chi-square   df    p-value      Significant?
+-------------------------------------------------------------------------------------
+Dryness           EEP 3%      10   18.6667      2     0.0001       Yes
+Dryness           Crude 5%    10   18.6667      2     0.0001       Yes
+Dryness           Vehicle     10   10.5714      2     0.0051       Yes
+
+Local SCORAD†     EEP 3%      10   20.0000      2     <0.0001      Yes
+Local SCORAD†     Crude 5%    10   20.0000      2     <0.0001      Yes
+Local SCORAD†     Vehicle     10   20.0000      2     <0.0001      Yes
+
+Pruritus VAS      EEP 3%      10   20.0000      2     <0.0001      Yes
+Pruritus VAS      Crude 5%    10   20.0000      2     <0.0001      Yes
+Pruritus VAS      Vehicle     10   18.1667      2     0.0001       Yes
+
+Skin Comfort      EEP 3%      10   20.0000      2     <0.0001      Yes
+Skin Comfort      Crude 5%    10   20.0000      2     <0.0001      Yes
+Skin Comfort      Vehicle     10   16.0000      2     0.0003       Yes
+
+† indicates exploratory endpoint (see Section 2.8 of main manuscript).
+
+================================================================================
+TABLE S17: EXPLORATORY EFFECT SIZE ANALYSIS (CLIFF'S DELTA)
+================================================================================
+
+Note: Perfect or near-perfect effect separation (|d| = 1.00) observed in several exploratory outcomes should be interpreted with extreme caution. In pilot studies with n = 10 per group, Cliff's Delta estimates are highly unstable and prone to ceiling effects due to limited category ranges in ordinal scales. These values represent the maximal possible effect size under the current design and likely overestimate true population effects. They should be viewed strictly as exploratory indicators of signal direction, not as reliable estimates of clinical magnitude (Button et al., 2013; Leon et al., 2011).
+
+Variable                    Comparison        n1 vs n2   Test Stat   Adj p*   |d|    95% CI           Classification
+--------------------------------------------------------------------------------------------------------------------------
+Dryness Score (Week 4)      EEP vs Vehicle    10 vs 10   U = 0.0     <0.001   0.93   [-1.00, -0.77]   Large
+                            Crude vs Vehicle  10 vs 10   U = 0.0     <0.001   0.92   [-1.00, -0.73]   Large
+                            EEP vs Crude      10 vs 10   U = 22.5    0.847    0.10   [-0.40, 0.20]    Negligible
+
+Local SCORAD† (Week 4)      EEP vs Vehicle    10 vs 10   U = 0.0     <0.001   1.00   [-1.00, -1.00]   Large
+                            Crude vs Vehicle  10 vs 10   U = 0.0     <0.001   1.00   [-1.00, -1.00]   Large
+                            EEP vs Crude      10 vs 10   U = 17.0    0.452    0.21   [-0.69, 0.33]    Small
+
+Pruritus VAS (Week 4)       EEP vs Vehicle    10 vs 10   U = 0.0     <0.001   1.00   [-1.00, -1.00]   Large
+                            Crude vs Vehicle  10 vs 10   U = 0.0     <0.001   0.97   [-1.00, -0.88]   Large
+                            EEP vs Crude      10 vs 10   U = 21.0    0.847    0.10   [-0.52, 0.36]    Negligible
+
+Skin Comfort (Week 4)       EEP vs Vehicle    10 vs 10   U = 0.0     <0.001   1.00   [1.00, 1.00]     Large
+                            Crude vs Vehicle  10 vs 10   U = 0.0     <0.001   1.00   [1.00, 1.00]     Large
+                            EEP vs Crude      10 vs 10   U = 18.0    0.452    0.20   [-0.20, 0.60]    Small
+
+Subject Satisfaction (Wk 4) EEP vs Vehicle    10 vs 10   U = 0.0     <0.001   1.00   [1.00, 1.00]     Large
+                            Crude vs Vehicle  10 vs 10   U = 0.0     <0.001   1.00   [1.00, 1.00]     Large
+                            EEP vs Crude      10 vs 10   U = 18.0    0.452    0.20   [-0.20, 0.60]    Small
+
+*Adjusted p-values using Benjamini-Hochberg FDR correction for exploratory 
+comparisons. Primary pairwise hypothesis testing used Bonferroni adjustment 
+(see Table S14).
+
+Magnitude thresholds (Vargha & Delaney, 2000): 
+Negligible (|d| < 0.147), Small (0.147 ≤ |d| < 0.33), 
+Medium (0.33 ≤ |d| < 0.474), Large (|d| ≥ 0.474).
+
+† indicates exploratory endpoint (see Section 2.8 of main manuscript).
+
+================================================================================
+TABLE S18: METHODOLOGICAL FOOTNOTES AND STATISTICAL FRAMEWORK
+================================================================================
+
+1. MULTIPLE COMPARISON CORRECTION
+   ---------------------------------------------------------------------------
+   Between-group comparisons (Kruskal-Wallis) were followed by Mann-Whitney U 
+   post-hoc tests. Bonferroni correction was applied for all post-hoc 
+   comparisons. Adjusted alpha = 0.017 per comparison (family-wise alpha = 0.05). 
+   Within-group repeated measures: Bonferroni correction (5 outcomes per group); 
+   Adjusted alpha = 0.01 per test.
+
+2. EFFECT SIZE INTERPRETATION
+   ---------------------------------------------------------------------------
+   Effect sizes for ordinal non-parametric outcomes were calculated using 
+   Cliff's Delta (|d|). Magnitude thresholds followed established conventions 
+   for ordinal effect size interpretation (Vargha & Delaney, 2000): 
+   negligible (|d| < 0.147), small (0.147 ≤ |d| < 0.33), medium 
+   (0.33 ≤ |d| < 0.474), and large (|d| ≥ 0.474). Effect size estimates 
+   should be interpreted cautiously in small pilot studies because magnitude 
+   estimates may be inflated relative to true population effects 
+   (Button et al., 2013; Leon et al., 2011).
+
+3. NON-PARAMETRIC JUSTIFICATION
+   ---------------------------------------------------------------------------
+   Given the exploratory pilot design, ordinal clinical outcomes, and small 
+   sample size, non-parametric methods were prioritized. Shapiro-Wilk test 
+   rejected normality for most ordinal variables (p < 0.05). Parametric 
+   methods were applied only when distributional assumptions were satisfied; 
+   otherwise, non-parametric approaches were retained.
+
+4. BASELINE BALANCE
+   ---------------------------------------------------------------------------
+   All baseline parameters were balanced across groups (all p > 0.05), 
+   confirming successful randomization and sex stratification.
+
+5. EXPLORATORY OUTCOME
+   ---------------------------------------------------------------------------
+   Local SCORAD† was prespecified in the amended Statistical Analysis Plan 
+   (SAP) v2.0 (finalized before database lock). Marked with † in all 
+   manuscript figures/tables.
+
+6. DATA SOURCE & COMPLETENESS
+   ---------------------------------------------------------------------------
+   Source: DEPRO_Study_Data.xlsx | Total: n = 30 (Group A: n=10, Group B: n=10, 
+   Group C: n=10). Given minimal missing data, complete-case analysis was applied.
+
+7. SIGNIFICANCE CRITERION
+   ---------------------------------------------------------------------------
+   Two-tailed tests throughout. Threshold: p < 0.05 (unadjusted) or 
+   p < 0.017 (Bonferroni-adjusted post-hoc comparisons).
+
+8. EXPLORATORY POST-HOC POWER ESTIMATION
+   ---------------------------------------------------------------------------
+   Performed using G*Power (v3.1.9.7). See Supplementary Table S11.
+
+9. FUTURE DEFINITIVE TRIAL PLANNING
+   ---------------------------------------------------------------------------
+   Effect size estimates should be interpreted with extreme caution. Ordinal scales with limited category ranges and small pilot samples (n = 10 per group) may yield inflated non-parametric effect sizes approaching the theoretical ceiling (|d| = 1.00). As emphasized by Leon et al. (2011), pilot studies are not designed to provide precise effect size estimates for planning definitive trials. The large Cliff's Delta values observed in this study (≥ 0.92) should be viewed as exploratory indicators of signal direction and magnitude rather than reliable estimates of true clinical effect. Future confirmatory studies should employ larger samples (n ≥ 71 per group, see Section B above) and validated continuous outcome measures to obtain stable effect size estimates.
+
+   Sample size requirements for future confirmatory studies were estimated 
+   using a clinically meaningful comparable exploratory performance framework 
+   rather than observed pilot effect sizes. A comparable exploratory 
+   performance margin of 0.5 points on the 5-point Clinical Dryness Score 
+   was prespecified because it represents less than one categorical severity 
+   grade and was considered the largest difference unlikely to be clinically 
+   meaningful in routine dermocosmetic use. Using Noether's formula (1987) for 
+   a two-sided Mann-Whitney U test (alpha = 0.05, power = 0.90) and incorporating 
+   a 20% anticipated attrition rate, a future confirmatory comparative trial 
+   would require approximately n ≈ 71 participants per group (N = 213 total) 
+   to confirm comparable efficacy between crude propolis and EEP 
+   (Supplementary Table S11).
+
+10. CEILING EFFECT TRANSPARENCY
+    ---------------------------------------------------------------------------
+    The HCP-KAP-TCS v1.0 instrument exhibited severe ceiling effects, with 
+    15 of 36 items (41.7%) showing zero variance (Knowledge: K1–K6; Attitude: 
+    A4, A6, A8, A10; Practice: P2, P4, P6, P8, P10). Both full-scale and 
+    discriminating-item subset analyses are reported throughout this 
+    supplementary document to ensure transparency. Discriminating-item scores 
+    exclude zero-variance items and better reflect true expertise gradients, 
+    whereas full-scale scores are provided for comparison with prior literature 
+    using conventional KAP scoring approaches.
+11.INSTRUMENT VALIDATION LIMITATION
+The KAP instruments (Public and HCP versions) were developed through literature review and expert panel consultation but were not subjected to formal psychometric validation (content validity index, confirmatory factor analysis, test-retest reliability). Therefore, all domain scores, level classifications, and inter-domain correlations should be regarded as exploratory indicators rather than validated psychometric constructs. This limitation constrains the strength of inferences regarding construct validity and score stability. Future studies should establish content validity index (CVI ≥ 0.80) and test-retest reliability (ICC ≥ 0.70) before confirmatory use.
+
+================================================================================
+END OF SUPPLEMENTARY MATERIALS
+================================================================================
