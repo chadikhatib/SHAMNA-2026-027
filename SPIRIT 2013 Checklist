@@ -1,0 +1,149 @@
+    # SPIRIT 2013 Checklist: Recommended Items to Address in a Clinical Trial Protocol
+## SHAMNA-2026-027: KAP-Informed Translational Pilot Study in Atopic-Prone Xerotic Skin
+
+---
+
+### Study Identification
+
+| Element | Detail |
+|---------|--------|
+| **Title** | From Topical Corticosteroid Misuse to Propolis-Based Supportive Care: A KAP-Informed Translational Study in Atopic-Prone Xerotic Skin |
+| **Protocol ID** | SHAMNA-2026-027 |
+| **ClinicalTrials.gov** | NCT07618234 |
+| **Date** | 2026-06-05 |
+| **SPIRIT Version** | 2013 (Chan et al., 2013) |
+| **Protocol Version** | Version 03 (05 June 2026) |
+
+---
+
+## SPIRIT 2013 CHECKLIST
+
+### ADMINISTRATIVE INFORMATION
+
+| # | Checklist Item | Description | Page / Section | Reported |
+|---|---------------|-------------|----------------|----------|
+| 1 | **Descriptive title** | 1a. Descriptive title identifying the study design, population, interventions, and, if applicable, trial acronym | Title | ✅ Yes |
+| 2 | **Trial registration** | 2a. Trial identifier and registry name. If not yet registered, name of intended registry | 2.7, Abstract | ✅ Yes |
+| 3 | **Protocol version** | 3a. Date and version identifier | 2.7 | ✅ Yes |
+| 4 | **Funding** | 4a. Sources and types of financial, material, and other support | Funding | ✅ Yes |
+| 5 | **Roles and responsibilities** | 5a. Names, affiliations, and roles of protocol contributors; 5b. Name and contact information for the trial sponsor; 5c. Role of study sponsor and funders, if any, in study design; collection, management, analysis, and interpretation of data; writing of the report; and the decision to submit the report for publication, including whether they will have ultimate authority over any of these activities; 5d. Composition, roles, and responsibilities of the coordinating centre, steering committee, endpoint adjudication committee, data management team, and other individuals or groups overseeing the trial, if applicable (see Item 21a for data monitoring committee) | Authors' Contributions, Funding, AI Disclosure | ✅ Yes |
+
+---
+
+### INTRODUCTION
+
+| # | Checklist Item | Description | Page / Section | Reported |
+|---|---------------|-------------|----------------|----------|
+| 6 | **Background and rationale** | 6a. Description of research question and justification for undertaking the trial, including summary of relevant studies (published and unpublished) examining benefits and harms for each intervention; 6b. Explanation for choice of comparators | Introduction | ✅ Yes |
+| 7 | **Objectives** | 7a. Specific objectives or hypotheses | Introduction, 2.7 | ✅ Yes |
+| 8 | **Trial design** | 8a. Description of trial design including type of trial (e.g., parallel group, crossover, factorial, single group), allocation ratio, and framework (e.g., superiority, equivalence, non-inferiority, exploratory) | 2.1, 2.7 | ✅ Yes |
+
+---
+
+### METHODS: PARTICIPANTS, INTERVENTIONS, AND OUTCOMES
+
+| # | Checklist Item | Description | Page / Section | Reported |
+|---|---------------|-------------|----------------|----------|
+| 9 | **Study setting** | 9a. Description of study settings (e.g., community clinic, academic hospital) and list of countries where data will be collected. Reference to where list of study sites can be obtained | 2.7 | ✅ Yes |
+| 10 | **Eligibility criteria** | 10a. Inclusion criteria for participants; 10b. Exclusion criteria for participants | 2.7 | ✅ Yes |
+| 11 | **Interventions** | 11a. Interventions for each group with sufficient detail to allow replication, including how and when they will be administered; 11b. Criteria for discontinuing or modifying allocated interventions for a given trial participant (e.g., drug dose reduction in response to harms, participant request, or improving/worsening disease); 11c. Strategies to improve adherence to intervention protocols, and any procedures for monitoring adherence (e.g., drug tablet return, laboratory tests); 11d. Relevant concomitant care and interventions that are permitted or prohibited during the trial | 2.3–2.7 | ✅ Yes |
+| 12 | **Outcomes** | 12a. Primary, secondary, and other outcomes, including the specific measurement variable (e.g., systolic blood pressure), analysis metric (e.g., change from baseline, final value, time to event), method of aggregation (e.g., median, proportion), and time point for each outcome. Explanation of the clinical relevance of chosen efficacy and harm outcomes is strongly recommended | 2.8 | ✅ Yes |
+| 13 | **Participant timeline** | 13a. Time schedule of enrolment, interventions (including any run-ins and washouts), assessments, and visits for participants. A schematic diagram is highly recommended (see Figure) | 2.7, Figure 1 | ✅ Yes |
+| 14 | **Sample size** | 14a. Estimated number of participants needed to achieve study objectives and how it was determined, including clinical and statistical assumptions supporting any sample size calculations; 14b. Explanation of any interim analyses and stopping guidelines (if not covered in Item 17b). *Note: Sample size was not formally calculated a priori as this was a pilot feasibility study; post-hoc projections for future definitive trials are provided in Supplementary Table S11.* | 3.4, Table S11 | ✅ Yes |
+| 15 | **Recruitment** | 15a. Strategies for achieving adequate participant enrolment to reach target sample size | 2.7 | ✅ Yes |
+
+---
+
+### METHODS: ASSIGNMENT OF INTERVENTIONS (FOR CONTROLLED TRIALS)
+
+| # | Checklist Item | Description | Page / Section | Reported |
+|---|---------------|-------------|----------------|----------|
+| 16 | **Allocation sequence generation** | 16a. Method of generating the allocation sequence (e.g., computer-generated random numbers), and list of any factors for stratification. To reduce predictability of a random sequence, details of any planned restriction (e.g., blocking) should be provided in a separate document that is unavailable to those who enrol participants or assign interventions | 2.7 | ✅ Yes |
+| 17 | **Allocation concealment mechanism** | 17a. Mechanism of implementing the allocation sequence (e.g., central telephone; sequentially numbered, opaque, sealed envelopes), describing any steps to conceal the sequence until interventions are assigned | 2.7 | ✅ Yes |
+| 18 | **Implementation** | 18a. Who will generate the allocation sequence, who will enrol participants, and who will assign participants to interventions | 2.7 | ✅ Yes |
+| 19 | **Blinding** | 19a. Who will be blinded after assignment to interventions (e.g., trial participants, care providers, outcome assessors, data analysts), and how; 19b. If blinded, circumstances under which unblinding is permissible and procedure for revealing a participant's allocated intervention during the trial | 2.6, 2.7 | ✅ Yes |
+
+---
+
+### METHODS: DATA COLLECTION, MANAGEMENT, AND ANALYSIS
+
+| # | Checklist Item | Description | Page / Section | Reported |
+|---|---------------|-------------|----------------|----------|
+| 20 | **Data collection methods** | 20a. Plans for assessment and collection of outcome, baseline, and other trial data, including any related processes to promote data quality (e.g., duplicate measurements, training of assessors) and a description of study instruments (including their psychometric properties, if known) along with references to where instruments can be obtained. Reference to where data collection forms can be obtained, if not provided with the protocol; 20b. Plans to promote participant retention and complete follow-up, including list of any outcome data to be collected for participants who discontinue or deviate from intervention protocols. *Formulation quality control procedures are detailed in Supplementary Figure S3.* | 2.8, 2.9, Supplementary Figure S3 | ✅ Yes |
+| 21 | **Data management** | 21a. Plans for data entry, coding, security, and storage, including any related processes to promote data quality (e.g., double data entry; range checks for data values). Reference to where details of data management procedures can be obtained, if not provided with the protocol | 2.9 | ✅ Yes |
+| 22 | **Statistical methods** | 22a. Statistical methods for primary and secondary outcomes. Reference to where other details of the statistical analysis plan can be obtained, if not provided with the protocol; 22b. Methods for any additional analyses (e.g., subgroup and adjusted analyses); 22c. Definition of analysis population relating to protocol non-adherence (e.g., as randomised analysis), and any statistical methods to handle missing data (e.g., multiple imputation) | 2.9 | ✅ Yes |
+
+---
+
+### METHODS: MONITORING
+
+| # | Checklist Item | Description | Page / Section | Reported |
+|---|---------------|-------------|----------------|----------|
+| 23 | **Data monitoring committee** | 23a. Composition of data monitoring committee (DMC); summary of its role and reporting structure; statement of whether it is independent from the sponsor and competing interests; and reference to where further details about its charter can be obtained, if not provided with the protocol. Alternatively, an explanation of why a DMC is not needed | 8 | ✅ Yes (None for pilot; planned for definitive trials) |
+| 24 | **Interim analyses** | 24a. Description of planned interim analyses of accumulating outcome data, including any stopping guidelines | 8 | ✅ Yes (None for pilot) |
+| 25 | **Harms** | 25a. Plans for collecting, assessing, reporting, and managing solicited and spontaneously reported adverse events and other unintended effects of trial interventions or trial conduct | 2.8, 3.5 | ✅ Yes |
+| 26 | **Auditing** | 26a. Frequency and procedures for auditing trial conduct, if any, and whether the process will be independent from investigators and the sponsor. *Source data verification and quality control were performed by the research team. Independent auditing was not conducted due to the exploratory pilot nature and resource constraints.* | 2.9, Quality Assurance | ⚠️ Partial (Pilot phase; independent auditing deferred to definitive trials) |
+
+---
+
+### ETHICS AND DISSEMINATION
+
+| # | Checklist Item | Description | Page / Section | Reported |
+|---|---------------|-------------|----------------|----------|
+| 27 | **Research ethics approval** | 27a. Plans for seeking research ethics committee/institutional review board (REC/IRB) approval | 2.7, Ethics Approval | ✅ Yes |
+| 28 | **Protocol amendments** | 28a. Plans for communicating important protocol modifications (e.g., changes to eligibility criteria, outcomes, analyses) to relevant parties (e.g., investigators, REC/IRBs, trial participants, trial registries, journals, regulators) | 2.7, 10 | ✅ Yes |
+| 29 | **Consent or assent** | 29a. Who will obtain informed consent or assent from potential trial participants or authorised surrogates, and how (see Item 32); 29b. Additional consent provisions for collection and use of participant data and biological specimens in ancillary studies, if applicable | 2.7, ICF | ✅ Yes |
+| 30 | **Confidentiality** | 30a. How personal information about potential and enrolled participants will be collected, shared, and maintained in order to protect confidentiality before, during, and after the trial | 2.7, 6 | ✅ Yes |
+| 31 | **Declaration of interests** | 31a. Financial and other competing interests for principal investigators for the overall trial and each study site | Disclosures | ✅ Yes |
+| 32 | **Access to data** | 32a. Statement of who will have access to the final trial dataset, and disclosure of contractual agreements that limit such access for investigators | 4.6, Availability | ✅ Yes |
+| 33 | **Ancillary and post-trial care** | 33a. Provisions, if any, for ancillary and post-trial care, and for compensation to those who suffer harm from trial participation | 5, 6 | ✅ Yes |
+| 34 | **Dissemination policy** | 34a. Plans for investigators and sponsor to communicate trial results to participants, healthcare professionals, the public, and other relevant groups (e.g., via publication, reporting in results databases, or other data sharing arrangements), including any publication restrictions; 34b. Authorship eligibility guidelines and any intended use of professional writers; 34c. Plans, if any, for granting public access to the full protocol, participant-level dataset, and statistical code | 4.6, Availability, AI Disclosure | ✅ Yes |
+
+---
+
+## SUMMARY COMPLIANCE
+
+| SPIRIT Domain | Items | Fully Reported | Partially Reported | N/A | Notes |
+|---------------|-------|----------------|-------------------|-----|-------|
+| **Administrative Information** | 5 | 5 | 0 | 0 | — |
+| **Introduction** | 3 | 3 | 0 | 0 | — |
+| **Methods: Participants, Interventions, Outcomes** | 7 | 7 | 0 | 0 | — |
+| **Methods: Assignment of Interventions** | 4 | 4 | 0 | 0 | — |
+| **Methods: Data Collection, Management, Analysis** | 3 | 3 | 0 | 0 | — |
+| **Methods: Monitoring** | 4 | 3 | 1 | 0 | Item 26: Auditing not explicitly described for pilot |
+| **Ethics and Dissemination** | 8 | 8 | 0 | 0 | — |
+| **TOTAL** | **34** | **33** | **1** | **0** | **97% fully reported** |
+
+> **Note:** All SPIRIT items addressed. Item 26 (Auditing) classified as Partially Reported because independent auditing was not conducted for the pilot phase due to resource constraints, though source data verification and quality control were performed by the research team. This reflects the exploratory nature and limited resources of the pilot phase rather than an omission. Independent auditing is planned for future definitive trials.
+
+---
+
+## CERTIFICATION
+
+| Element | Detail |
+|---------|--------|
+| **Checklist Completed By** | Research Team |
+| **Date** | 2026-06-05 |
+| **Protocol Version** | SHAMNA-2026-027, Version 03 (05 June 2026) |
+| **SPIRIT Items** | 33/34 fully reported (97%) |
+| **Partially Reported** | 1 item (26) |
+| **Not Applicable** | 0 |
+| **Overall Compliance** | **97% fully reported** |
+
+---
+
+## REFERENCES
+
+- Chan, A. W., Tetzlaff, J. M., Gøtzsche, P. C., Altman, D. G., Mann, H., Berlin, J. A., ... & Moher, D. (2013). SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials. *BMJ*, 346, e7586. https://doi.org/10.1136/bmj.e7586
+- Chan, A. W., Tetzlaff, J. M., Altman, D. G., Laupacis, A., Gøtzsche, P. C., Krleža-Jerić, K., ... & Moher, D. (2013). SPIRIT 2013 statement: defining standard protocol items for clinical trials. *Annals of Internal Medicine*, 158(3), 200-207. https://doi.org/10.7326/0003-4819-158-3-201302050-00583
+
+---
+
+**GitHub Repository:** https://github.com/chadikhatib/SHAMNA-2026-027  
+**Zenodo Archive:** https://doi.org/10.5281/zenodo.20452809  
+**ClinicalTrials.gov:** NCT07618234
+
+---
+*End of SPIRIT 2013 Checklist*
+
+    
