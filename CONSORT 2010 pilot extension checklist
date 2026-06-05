@@ -1,0 +1,315 @@
+    # CONSORT 2010 Extension to Randomised Pilot and Feasibility Trials
+## Checklist for SHAMNA-2026-027
+
+---
+
+### Study Identification
+
+| Element | Detail |
+|---------|--------|
+| **Title** | From Topical Corticosteroid Misuse to Propolis-Based Supportive Care: A KAP-Informed Translational Study in Atopic-Prone Xerotic Skin |
+| **Protocol ID** | SHAMNA-2026-027 |
+| **ClinicalTrials.gov** | NCT07618234 |
+| **Study Design** | Mixed-methods translational pilot: KAP surveys + double-blind, randomized, vehicle-controlled parallel-group pilot trial |
+| **Date** | 2026-06-05 |
+| **CONSORT Version** | 2010 Extension to Pilot and Feasibility Trials (Eldridge et al., 2016) |
+
+---
+
+## CONSORT 2010 CHECKLIST
+
+### TITLE AND ABSTRACT
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 1a | Identification as a pilot or feasibility study in the title | Title | ✅ Yes | "Translational Pilot Study" explicitly stated |
+| 1b | Structured abstract including: objectives, methods, results, conclusions | Abstract | ✅ Yes | Structured with Background, Methods, Results, Conclusions |
+| 1c | Feasibility or pilot nature explicitly stated in abstract | Abstract | ✅ Yes | "pilot trial (n=30)" and "hypothesis-generating findings" |
+| 1d | Primary objectives clearly stated as feasibility or pilot objectives | Abstract | ✅ Yes | Primary feasibility endpoint: Clinical Dryness Score |
+
+---
+
+### INTRODUCTION
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 2a | Scientific background and explanation of rationale | Introduction | ✅ Yes | TCS misuse in MENA, propolis rationale, KAP framework |
+| 2b | Specific objectives or research questions for pilot/feasibility | Introduction | ✅ Yes | (i) KAP characterization, (ii) modifiable determinants, (iii) pilot clinical evaluation |
+| 2c | Clear statement that the study is designed to assess feasibility or pilot methods | Introduction | ✅ Yes | "pilot randomized controlled evaluation" and "preliminary evidence to inform future definitive studies" |
+| 2d | No claim of definitive efficacy testing | Introduction | ✅ Yes | Explicitly framed as hypothesis-generating |
+
+---
+
+### METHODS
+
+#### Trial Design
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 3a | Description of trial design (e.g., parallel, factorial) including allocation ratio | 2.1, 2.7 | ✅ Yes | Parallel-group, 1:1:1 allocation, double-blind |
+| 3b | Important changes to methods after trial commencement | 2.7, 4.6 | ✅ Yes | SAP v2.0 added SCORAD†; no outcome changes; registration after recruitment commenced (disclosed) |
+| 3c | Pilot or feasibility trial design features | 2.7, 3.4 | ⚠️ Partial | Feasibility objectives and signal detection reported; formal progression criteria (Go/Amend/Stop) not prespecified |
+
+#### Participants
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 4a | Eligibility criteria for participants | 2.7 | ✅ Yes | Age 18-60, atopic-prone xerotic skin, Clinical Dryness Score ≥2 |
+| 4b | Settings and locations where data were collected | 2.7 | ✅ Yes | Manara University, Latakia, Syria; 15 April – 24 May 2026 |
+| 4c | KAP survey participant characteristics | 3.1, Table 2 | ✅ Yes | Public n=306, HCP n=120; demographics detailed |
+
+#### Interventions
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 5 | The interventions for each group with sufficient details to allow replication | 2.3–2.6 | ✅ Yes | EEP 3%, Crude 5%, Vehicle; manufacturing details provided |
+| 5a | Propolis source and standardization | 2.3 | ✅ Yes | Jableh district, Latakia; HPLC fingerprinting; TPC; DPPH |
+| 5b | Formulation preparation and characterization | 2.4–2.6 | ✅ Yes | Micronization, UV-Vis profiling, blinding verification |
+| 5c | How interventions were administered | 2.7 | ✅ Yes | 2 mg/cm² twice daily, 10×10 cm flexor forearm, 4 weeks |
+
+#### Outcomes
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 6a | Completely defined pre-specified primary feasibility outcome(s) | 2.8 | ✅ Yes | Change in Clinical Dryness Score (ad hoc 5-point ordinal) |
+| 6b | Pre-specified secondary outcomes | 2.8 | ✅ Yes | Pruritus VAS, Skin Comfort, Subject Satisfaction |
+| 6c | Exploratory outcomes clearly labeled | 2.8 | ✅ Yes | Localized SCORAD† marked with † throughout |
+| 6d | Methods used to enhance outcome quality | 2.8 | ✅ Yes | Standardized conditions (5500 K LED, 22±2°C, 10:00–12:00 window) |
+| 6e | Any changes to trial outcomes after the trial commenced | 2.7, 4.6 | ✅ Yes | SCORAD† added in SAP v2.0 before database lock; no post-hoc changes |
+| 6f | Clear statement that outcomes are feasibility-related | 2.8, Abstract | ✅ Yes | "exploratory feasibility indicators rather than confirmatory evidence" |
+
+#### Sample Size
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 7a | How sample size was determined | 3.4, Table S11 | ✅ Yes | Feasibility objective (n=10/group); Noether's formula for future trials (n=71/group) |
+| 7b | Explanation of any interim analyses and stopping guidelines | 8 | ✅ Yes | None for pilot; prespecified for definitive trials |
+| 7c | Clear statement that no formal power calculation was performed for efficacy | 3.4 | ✅ Yes | "pilot studies are not designed to provide precise effect size estimates" (Leon et al., 2011) |
+| 7d | Precision or CI reported for feasibility estimates | 3.4, Table 4 | ✅ Yes | 95% CIs for all Cliff's Delta estimates |
+
+#### Randomization
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 8a | Method used to generate the random allocation sequence | 2.7 | ✅ Yes | Computer-generated block randomization, block size=6, stratified by sex |
+| 8b | Type of randomization | 2.7 | ✅ Yes | Block randomization with stratification |
+| 8c | Mechanism used to implement the random allocation sequence | 2.7 | ✅ Yes | SNOSE (sequentially numbered opaque sealed envelopes) |
+| 8d | Who generated the random allocation sequence, enrolled participants, and assigned participants to interventions | 2.7 | ✅ Yes | Independent statistician generated; PI enrolled; independent pharmacist coded |
+
+#### Blinding
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 9 | If done, who was blinded after assignment to interventions | 2.6, 2.7 | ✅ Yes | Double-blind: participants and outcome assessors; care provider and investigator with role separation |
+| 9a | If blinded, circumstances under which unblinding was permissible | 2.7 | ✅ Yes | Emergency unblinding only for participant safety |
+| 9b | Blinding verification performed | 2.6 | ✅ Yes | 10 treatment-naïve evaluators; >8.5/10 similarity ratings |
+| 9c | Limitations of blinding acknowledged | 4.6 | ✅ Yes | No in-trial blinding assessment; cannot exclude unblinding |
+
+#### Statistical Methods
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 10a | Statistical methods used to compare groups for primary and secondary outcomes | 2.9 | ✅ Yes | Kruskal-Wallis + Mann-Whitney U (Bonferroni α=0.017); Friedman + Wilcoxon signed-rank |
+| 10b | Methods for additional analyses (e.g., subgroup, sensitivity) | 2.9, 7 | ✅ Yes | Partial correlation, discriminating-item sensitivity, profession-stratified |
+| 10c | Statistical methods appropriate for pilot/feasibility objectives | 2.9 | ✅ Yes | Non-parametric prioritized; effect sizes with CIs; no formal efficacy testing |
+| 10d | Software used | 2.9 | ✅ Yes | Python (v3.x), SPSS (v28), GraphPad Prism (v10) |
+| 10e | Effect size estimation with confidence intervals | 3.4, Table 4, Figure 4 | ✅ Yes | Cliff's Delta with 95% bootstrap CIs for all comparisons |
+
+---
+
+### RESULTS
+
+#### Participant Flow
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 13a | For each group, numbers of participants who were randomly assigned, received intended treatment, and were analyzed for the primary outcome | Figure 1, 3.2 | ✅ Yes | 45 screened, 30 randomized (10/group), 30 completed (100% retention) |
+| 13b | For each group, losses and exclusions after randomization, together with reasons | Figure 1 | ✅ Yes | No losses; 0 withdrawals; 0 lost to follow-up |
+| 13c | Flow diagram specifically for pilot/feasibility studies showing recruitment and retention | Figure 1 | ✅ Yes | CONSORT 2010 pilot extension flow diagram provided |
+
+#### Recruitment
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 14a | Dates defining the periods of recruitment and follow-up | 2.7 | ✅ Yes | 15 April – 24 May 2026 (clinical); KAP surveys concurrent |
+| 14b | Why the trial ended or was stopped | — | N/A | Completed per protocol; no early termination |
+
+#### Baseline Data
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 15 | Table showing baseline demographic and clinical characteristics for each group | Table 3 | ✅ Yes | Age, sex, baseline Dryness Score, SCORAD†, Pruritus VAS; all balanced (p>0.05) |
+| 15a | KAP survey baseline characteristics | Table 2, 3.1 | ✅ Yes | Public and HCP demographics, KAP scores, Cronbach's α |
+
+#### Numbers Analyzed
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 16 | For each group, number of participants (denominator) included in each analysis | 3.2–3.5 | ✅ Yes | ITT=30, PP=30; complete-case analysis; 100% completion |
+| 16a | Whether analysis was by original assigned groups | 2.9 | ✅ Yes | Intention-to-treat with complete-case analysis |
+
+#### Outcomes and Estimation
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 17a | For each primary and secondary outcome, results for each group, and estimated effect size and precision | 3.3, Table 4, Figure 3 | ✅ Yes | Mean ± SD, median delta, Cliff's Delta with 95% CI for all outcomes |
+| 17b | For binary outcomes, presentation of both absolute and relative effect sizes | — | N/A | Ordinal outcomes; no binary primary outcomes |
+| 17c | Results presented as feasibility or pilot outcomes (not definitive efficacy) | 3.3, 3.4 | ✅ Yes | "exploratory signals", "directional superiority", "hypothesis-generating" |
+| 17d | Any harms or unintended effects | 3.5, Table 5 | ✅ Yes | 2 mild AEs (1 crude propolis, 1 vehicle); 0 withdrawals; 92% compliance |
+
+#### Ancillary Analyses
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 18 | Results of any other analyses performed, including subgroup and sensitivity analyses | 3.1, 4.2, 4.3 | ✅ Yes | Discriminating-item analyses, partial correlation, profession-stratified, TCS training effects |
+| 18a | Sensitivity analyses for ceiling effects | 4.3, Table S4 | ✅ Yes | Full-scale vs. discriminating-item; zero-variance item exclusion |
+
+#### Harms
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 19 | All important harms or unintended effects in each group | 3.5, Table 5 | ✅ Yes | 2 mild AEs; 0 moderate/severe; 0 SAEs; 0 allergic reactions; 0 withdrawals |
+| 19a | Harms monitoring methods | 2.8 | ✅ Yes | AE documentation at each visit; severity, causality, outcome categorization; 24h SAE reporting |
+
+---
+
+### DISCUSSION
+
+#### Limitations
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 20 | Trial limitations, addressing sources of potential bias, imprecision, and multiplicity | 4.6 | ✅ Yes | Single governorate, 4-week duration, no active comparator, n=30, convenience sampling, no objective measures, ceiling effects, unvalidated instruments, late registration |
+| 20a | Generalizability (external validity, applicability) of the pilot/feasibility findings | 4.1, 4.6 | ✅ Yes | Latakia-specific; educated/urban sample; single center; cautious extrapolation |
+| 20b | Interpretation consistent with pilot/feasibility objectives | 4.4, 5 | ✅ Yes | "hypothesis-generating", "exploratory feasibility indicators", "directional signals" |
+| 20c | No claim of definitive efficacy | 4.4, 5 | ✅ Yes | Explicitly constrained to exploratory interpretation |
+
+#### Generalizability
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 21 | Generalizability of pilot/feasibility trial findings | 4.1, 4.5, 4.6 | ✅ Yes | Geographic (Latakia), demographic (young, educated, urban), clinical (atopic-prone xerotic skin, not AD) |
+
+---
+
+### OTHER INFORMATION
+
+#### Registration
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 23 | Registration number and name of trial registry | 2.7, Abstract | ✅ Yes | ClinicalTrials.gov NCT07618234 |
+| 23a | Where the full trial protocol can be accessed | Availability | ✅ Yes | GitHub, Zenodo, corresponding author |
+| 23b | Late registration disclosed | 2.7, 4.6 | ✅ Yes | After recruitment commenced; protocol and SAP locked before enrollment; no post-hoc changes |
+
+#### Protocol
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| 24 | Sources of funding and other support | Funding | ✅ Yes | No external funding; Faculty of Pharmacy, Manara University |
+| 25 | Role of funders and sponsors | Funding | ✅ Yes | No sponsors; no competing interests; no conflicts of interest |
+| 26 | Availability of de-identified participant data | 4.6 | ✅ Yes | Within 6 months of publication; exclude clinical photographs; request to corresponding author |
+| 27 | Availability of statistical code and materials | Availability | ✅ Yes | GitHub repository; Zenodo archive; Python code; CSV dataset |
+| 28 | AI disclosure | AI Disclosure | ✅ Yes | AI-assisted writing tools for language refinement; no AI for data analysis or statistical computation |
+
+---
+
+## PILOT-SPECIFIC ITEMS (Eldridge et al., 2016)
+
+| # | Checklist Item | Page / Section | Reported | Notes |
+|---|---------------|----------------|----------|-------|
+| P1 | Clear description of pilot/feasibility objective(s) | Abstract, Introduction, 2.7 | ✅ Yes | Feasibility assessment, signal detection, sample size estimation for future trials |
+| P2 | Clear description of criteria for progression to future definitive trial | 3.4, 4.5 | ⚠️ Partial | Future directions and sample size projections reported; formal Go/Amend/Stop criteria not prespecified |
+| P3 | Description of pilot/feasibility outcomes (e.g., recruitment, retention, adherence) | 3.5, Table 5 | ✅ Yes | 100% retention, 92% compliance, favorable tolerability, 2 mild AEs |
+| P4 | Sample size justification appropriate for pilot/feasibility objectives | 3.4, Table S11 | ✅ Yes | Feasibility objective (n=10/group); Noether's formula for future planning (n=71/group) |
+| P5 | Plans for assessing feasibility of procedures and methods | 2.7–2.9 | ✅ Yes | Blinding verification, compliance monitoring, AE documentation, standardized assessments |
+| P6 | Plans for assessing acceptability of intervention and study procedures | 3.5 | ✅ Yes | Tolerability ratings, compliance, satisfaction, AE profile |
+| P7 | Plans for estimating parameters for future sample size calculations | 3.4, Table S11 | ✅ Yes | Effect sizes with CIs; conservative d=0.50 for future planning; 20% attrition adjustment |
+| P8 | Plans for assessing potential for recruitment and retention | 3.2, Figure 1 | ✅ Yes | 45 screened, 30 randomized, 30 completed; 100% retention; screening-to-randomization ratio |
+| P9 | Plans for determining value or worth of future main study | 4.5 | ✅ Yes | Multicenter RCT, active comparator, mechanistic biomarkers, pediatric populations, cross-cultural validation |
+| P10 | No definitive hypothesis testing claimed | Abstract, 3.4, 4.4, 5 | ✅ Yes | Repeatedly framed as exploratory, hypothesis-generating, feasibility-oriented |
+
+---
+
+## SUMMARY COMPLIANCE
+
+### CONSORT 2010 Items (Core)
+
+| Category | Items | Fully Reported | Partially Reported | N/A | Notes |
+|----------|-------|----------------|-------------------|-----|-------|
+| Title and Abstract | 4 | 4 | 0 | 0 | — |
+| Introduction | 4 | 4 | 0 | 0 | — |
+| Methods - Trial Design | 3 | 2 | 1 | 0 | Item 3c: Progression criteria partially reported |
+| Methods - Participants | 3 | 3 | 0 | 0 | — |
+| Methods - Interventions | 3 | 3 | 0 | 0 | — |
+| Methods - Outcomes | 6 | 6 | 0 | 0 | — |
+| Methods - Sample Size | 4 | 4 | 0 | 0 | — |
+| Methods - Randomization | 4 | 4 | 0 | 0 | — |
+| Methods - Blinding | 4 | 4 | 0 | 0 | — |
+| Methods - Statistical Methods | 5 | 5 | 0 | 0 | — |
+| Results - Participant Flow | 3 | 3 | 0 | 0 | — |
+| Results - Recruitment | 2 | 1 | 0 | 1 | Item 14b: N/A (no early termination) |
+| Results - Baseline Data | 2 | 2 | 0 | 0 | — |
+| Results - Numbers Analyzed | 2 | 2 | 0 | 0 | — |
+| Results - Outcomes | 5 | 4 | 0 | 1 | Item 17b: N/A (no binary outcomes) |
+| Results - Ancillary Analyses | 2 | 2 | 0 | 0 | — |
+| Results - Harms | 2 | 2 | 0 | 0 | — |
+| Discussion - Limitations | 4 | 4 | 0 | 0 | — |
+| Discussion - Generalizability | 1 | 1 | 0 | 0 | — |
+| Other Information | 6 | 6 | 0 | 0 | — |
+| **CONSORT Total** | **67** | **65** | **1** | **2** | **97% fully reported** |
+
+### Pilot Extension Items
+
+| Category | Items | Fully Reported | Partially Reported | N/A | Notes |
+|----------|-------|----------------|-------------------|-----|-------|
+| Pilot-Specific | 10 | 9 | 1 | 0 | Item P2: Progression criteria partially reported |
+| **Pilot Total** | **10** | **9** | **1** | **0** | **90% fully reported** |
+
+### Overall Summary
+
+| Metric | Value |
+|--------|-------|
+| **Total Items Assessed** | 77 |
+| **Fully Reported** | 74 (96%) |
+| **Partially Reported** | 2 (3%) |
+| **Not Applicable** | 2 (3%) |
+| **Not Reported** | 0 (0%) |
+
+> **Note:** All checklist items addressed. Several items fulfilled through adapted reporting appropriate for pilot design. Two items classified as Partially Reported (3c and P2) reflect the absence of formal progression criteria (Go/Amend/Stop), which were not prespecified but are addressed through future directions and sample size projections. Two items classified as N/A (14b, 17b) are not applicable to this pilot design.
+
+---
+
+## CERTIFICATION
+
+| Element | Detail |
+|---------|--------|
+| **Checklist Completed By** | Research Team |
+| **Date** | 2026-06-05 |
+| **Protocol Version** | SHAMNA-2026-027, Version 03 (01 April 2026) |
+| **SAP Version** | v4.0 (2026-05-20) |
+| **Manuscript Version** | v8 (2026-06-05) |
+| **CONSORT Items (Core)** | 65/67 fully reported (97%) |
+| **Pilot Extension Items** | 9/10 fully reported (90%) |
+| **Total Items** | 74/77 fully reported (96%) |
+| **Partially Reported** | 2 items (3c, P2) |
+| **Not Applicable** | 2 items (14b, 17b) |
+| **Overall Compliance** | **96% fully reported** |
+
+---
+
+## REFERENCES
+
+- Eldridge, S. M., Chan, C. L., Campbell, M. J., Bond, C. M., Hopewell, S., Thabane, L., & Lancaster, G. A. (2016). CONSORT 2010 statement: extension to randomised pilot and feasibility trials. *BMJ*, 355, i5239. https://doi.org/10.1136/bmj.i5239
+- Schulz, K. F., Altman, D. G., & Moher, D. (2010). CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials. *BMJ*, 340, c332. https://doi.org/10.1136/bmj.c332
+
+---
+
+**GitHub Repository:** https://github.com/chadikhatib/SHAMNA-2026-027  
+**Zenodo Archive:** https://doi.org/10.5281/zenodo.20452809  
+**ClinicalTrials.gov:** NCT07618234
+
+---
+*End of CONSORT 2010 Pilot Extension Checklist*
+
+    
