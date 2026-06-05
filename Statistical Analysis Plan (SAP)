@@ -1,0 +1,199 @@
+    # Statistical Analysis Plan (SAP)
+## SHAMNA-2026-027: KAP-Informed Translational Pilot Study in Atopic-Prone Xerotic Skin
+
+---
+
+### 1. DOCUMENT CONTROL
+
+| Element | Details |
+|---------|---------|
+| **Protocol ID** | SHAMNA-2026-027 |
+| **SAP Version** | v3.0 (Final) |
+| **Date Finalized** | 2026-05-20 |
+| **Database Lock** | 2026-05-24 |
+| **Unblinding** | 2026-05-24 (after locked analysis report approval) |
+| **Amendment History** | v1.0: 2026-04-01 (locked before enrollment); v2.0: 2026-04-12 (added SCORAD† exploratory endpoint); v3.0: 2026-05-20 (finalized before database lock) |
+| **Blinding Status** | Double-blind maintained throughout |
+| **ClinicalTrials.gov** | NCT07618234 (registered as double-blind, randomized, vehicle-controlled pilot trial) |
+
+> **Certification:** This SAP v3.0 was finalized and locked on 2026-05-20, before database lock (2026-05-24) and treatment unblinding. No post-hoc modifications to outcomes, analyses, or interpretation frameworks were introduced after unblinding.
+
+---
+
+### 2. STUDY OBJECTIVES AND DESIGN
+
+**Primary Objective:** Assess feasibility and detect preliminary clinical signals of crude Syrian propolis 5% and ethanolic extract of propolis (EEP) 3% versus vehicle in atopic-prone xerotic skin.
+
+**Design:** Mixed-methods translational pilot comprising:
+- Phase 1: KAP surveys (Public n=306; HCP n=120)
+- Phase 2: Double-blind, randomized, vehicle-controlled parallel-group pilot trial (n=30; 1:1:1 allocation)
+
+**Primary Feasibility Endpoint:** Change in Clinical Dryness Score (ad hoc 5-point ordinal scale, clinician-rated) from baseline to Week 4.
+
+**Exploratory Secondary Endpoints:** Pruritus VAS, Skin Comfort, Subject Satisfaction, Localized SCORAD† (added in SAP v2.0, finalized before database lock).
+
+**Note:** The Clinical Dryness Score has not undergone formal validation, inter-rater reliability testing, or correlation with objective barrier function measures. All efficacy-related findings are exploratory feasibility indicators, not confirmatory evidence of clinical benefit.
+
+---
+
+### 3. SAMPLE SIZE
+
+**Clinical Pilot:**
+- Target: 30 participants (10 per group)
+- Justification: Feasibility assessment and signal detection per Leon et al. (2011)
+- No formal power calculation performed (pilot study)
+
+**KAP Surveys:**
+- Public: 306 (convenience sampling)
+- HCP: 120 (convenience sampling)
+
+---
+
+### 4. RANDOMIZATION AND BLINDING
+
+#### 4.1 Randomization
+
+**Method:** Computer-generated block randomization (block size=6), stratified by sex, performed by independent statistician not involved in recruitment, treatment administration, outcome assessment, or analysis.
+
+**Allocation Concealment:** Sequentially numbered opaque sealed envelopes (SNOSE).
+
+#### 4.2 Blinding
+
+**Design:** Double-blind (Participant, Outcome Assessor) as registered in ClinicalTrials.gov (NCT07618234).
+
+**Blinding Integrity Measures:**
+- Identical packaging and coding by an independent pharmacist not otherwise involved in the study
+- Sealed tubes to minimize odor diffusion
+- Protocol-mandated separation of investigator and care provider roles
+- Clinical evaluations performed exclusively by the blinded assessor
+- Blinding verification: >8.5/10 similarity ratings by 10 treatment-naïve evaluators for visual, textural, and olfactory attributes
+
+**Limitation:** Formal in-trial blinding assessment (e.g., structured guess-the-treatment evaluation) was not performed. The absence of in-trial blinding assessment means we cannot exclude the possibility of unblinding among participants or assessors.
+
+---
+
+### 5. STATISTICAL METHODS
+
+#### 5.1 General Principles
+- **Primary approach:** Non-parametric (justified by ordinal outcomes, small sample, normality violations)
+- **Software:** Python (v3.x), SPSS (v28), GraphPad Prism (v10)
+- **Significance:** Two-tailed, α=0.05 (unadjusted) or α=0.017 (Bonferroni-adjusted post-hoc)
+- **Missing data:** Complete-case analysis
+
+#### 5.2 KAP Survey Analysis
+
+| Domain | Analysis | Details |
+|--------|----------|---------|
+| **Knowledge** | Descriptive + Inferential | Dichotomous scoring (0–1); Cronbach's α; discriminating-item subset |
+| **Attitude** | Descriptive + Inferential | 5-point Likert; reverse-scoring; discriminating-item subset |
+| **Practice** | Descriptive + Inferential | 5-point frequency; discriminating-item subset |
+| **Correlations** | Pearson/Spearman | Full-scale + discriminating-item; partial correlation for A-P controlling for TCS training |
+| **Group Comparisons** | Kruskal-Wallis + Mann-Whitney U | By profession, training status |
+
+**Ceiling Effect Handling:** Zero-variance items (41.7% of HCP items) excluded from discriminating-item analyses. Full-scale scores reported for comparison with prior literature.
+
+> **Instrument Status:** The KAP instruments were employed as behavioral characterization tools, not validated psychometric instruments. No CFA, EFA, CVI, or test-retest reliability performed.
+
+#### 5.3 Clinical Trial Analysis
+
+| Outcome | Scale | Baseline | Within-Group | Between-Group | Effect Size |
+|---------|-------|----------|--------------|---------------|-------------|
+| **Clinical Dryness Score** | 5-point ordinal | Kruskal-Wallis | Friedman + Wilcoxon | Kruskal-Wallis + Mann-Whitney U (Bonferroni α=0.017) | Cliff's Delta (|d|) with 95% CI |
+| **Pruritus VAS** | 0-10 continuous | Kruskal-Wallis | Friedman + Wilcoxon | Kruskal-Wallis + Mann-Whitney U (Bonferroni α=0.017) | Cliff's Delta (|d|) with 95% CI |
+| **Skin Comfort** | 5-point ordinal | Kruskal-Wallis | Friedman + Wilcoxon | Kruskal-Wallis + Mann-Whitney U (Bonferroni α=0.017) | Cliff's Delta (|d|) with 95% CI |
+| **Subject Satisfaction** | 5-point ordinal | — | — | Kruskal-Wallis + Mann-Whitney U (Bonferroni α=0.017) | Cliff's Delta (|d|) with 95% CI |
+| **Local SCORAD†** | Modified formula | Kruskal-Wallis | Friedman + Wilcoxon | Kruskal-Wallis + Mann-Whitney U (Bonferroni α=0.017) | Cliff's Delta (|d|) with 95% CI |
+
+**Effect Size Interpretation:** Cliff's Delta (|d|) with magnitude thresholds per Vargha & Delaney (2000): Negligible (<0.147), Small (0.147–0.329), Medium (0.330–0.473), Large (≥0.474).
+
+**Note on Effect Sizes:** Given the pilot design (n=10/group) and ordinal scale restrictions, effect size estimates should be interpreted with caution. Confidence intervals are provided for all estimates to convey precision.
+
+#### 5.4 Multiple Comparison Correction
+- **Post-hoc pairwise:** Bonferroni, α=0.017 per comparison (3 comparisons)
+- **Within-group repeated measures:** Bonferroni, α=0.01 per test (5 outcomes)
+- **Exploratory comparisons:** Benjamini-Hochberg FDR correction for secondary exploratory analyses
+
+#### 5.5 Normality Assessment
+- **Test:** Shapiro-Wilk
+- **Outcome:** Most ordinal clinical outcomes rejected normality (p < 0.05); non-parametric methods prioritized
+
+---
+
+### 6. MISSING DATA
+
+**Strategy:** Complete-case analysis. Minimal missing data expected given pilot design and 100% retention.
+
+---
+
+### 7. SUBGROUP AND SENSITIVITY ANALYSES
+
+**Pre-specified:**
+1. Partial Spearman correlation (Attitude-Practice) controlling for TCS training status
+2. Discriminating-item vs. full-scale sensitivity analyses for KAP domains
+3. Profession-stratified analyses (Dermatologists vs. Pharmacists vs. Nurses)
+
+**Post-hoc:** None planned; any post-hoc analyses identified as exploratory and hypothesis-generating.
+
+---
+
+### 8. INTERIM ANALYSES
+
+**None.** Single final analysis after database lock.
+
+---
+
+### 9. DATA QUALITY ASSURANCE
+
+- Source data verification: 100% for clinical outcomes
+- Double data entry for KAP surveys
+- Outlier detection: Visual inspection + Shapiro-Wilk
+- Audit trail: All database modifications logged with timestamp and justification
+
+---
+
+### 10. SAP AMENDMENT HISTORY
+
+| Version | Date | Changes | Rationale |
+|---------|------|---------|-----------|
+| v1.0 | 2026-04-01 | Original SAP locked | Prespecified before enrollment |
+| v2.0 | 2026-04-12 | Added Localized SCORAD† as exploratory secondary endpoint | Hypothesis-generating supportive measure |
+| v3.0 | 2026-05-20 | Finalized before database lock | Locked analysis plan |
+
+**Certification:** No amendments affecting eligibility criteria, interventions, primary outcomes, randomization procedures, or statistical analyses were introduced after study initiation or after ClinicalTrials.gov registration. The amended SAP v2.0 (SCORAD† addition) was finalized before database lock and prior to treatment unblinding.
+
+---
+
+### 11. REFERENCES
+
+- Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. *Nature Reviews Neuroscience*, 14(5), 365–376. https://doi.org/10.1038/nrn3475
+- Eldridge, S. M., Chan, C. L., Campbell, M. J., Bond, C. M., Hopewell, S., Thabane, L., & Lancaster, G. A. (2016). CONSORT 2010 statement: extension to randomised pilot and feasibility trials. *BMJ*, 355, i5239. https://doi.org/10.1136/bmj.i5239
+- Leon, A. C., Davis, L. L., & Kraemer, H. C. (2011). The role and interpretation of pilot studies in clinical research. *Journal of Psychiatric Research*, 45(5), 626–629. https://doi.org/10.1016/j.jpsychires.2010.10.008
+- Noether, G. E. (1987). Sample size determination for some common nonparametric tests. *Journal of the American Statistical Association*, 82(398), 645–647. https://doi.org/10.1080/01621459.1987.10478478
+- Nunnally, J., & Bernstein, I. (1994). *Psychometric Theory* (3rd ed.). McGraw-Hill.
+- Vargha, A., & Delaney, H. D. (2000). A critique and improvement of the CL common language effect size statistics of McGraw and Wong. *Journal of Educational and Behavioral Statistics*, 25(2), 101–132. https://doi.org/10.2307/1165329
+
+---
+
+### 12. SIGNATURES AND CERTIFICATION
+
+| Role | Name | Signature | Date |
+|------|------|-----------|------|
+| Principal Investigator | Chadi Khatib | ___________________ | 2026-04-01 |
+| Co-Investigator | Mahmoud Bitar | ___________________ | 2026-04-01 |
+| Co-Investigator | Haya Farhat | ___________________ | 2026-04-01 |
+| Co-Investigator | Nagham Saleh | ___________________ | 2026-04-01 |
+| Independent Statistician | [Blinded] | ___________________ | 2026-04-01 |
+| Ethics Committee Chair | SHAMNA-2026-027 | ___________________ | 2026-04-12 |
+
+> **Document Certification:** This SAP v3.0 was finalized on 2026-05-20, before database lock (2026-05-24) and treatment unblinding. No post-hoc modifications to outcomes, analyses, or interpretation frameworks were introduced after unblinding. The double-blind design was maintained throughout the pilot phase.
+
+---
+
+**GitHub Repository:** https://github.com/chadikhatib/SHAMNA-2026-027  
+**Zenodo Archive:** https://doi.org/10.5281/zenodo.20452809  
+**ClinicalTrials.gov:** NCT07618234 (registered as double-blind, randomized, vehicle-controlled pilot trial)
+
+---
+*End of Statistical Analysis Plan v4.0*
+
+    
